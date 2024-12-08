@@ -1,2 +1,7 @@
-# hcmut-ltnt-assigment
-Repostiory chứa code môn lập trình nâng cao kì 241
+### Cập nhật readme
+Gồm hai phần backend và frontend
+Git Clone về chạy 2 lệnh
+```bash
+npm install
+npm start
+```
