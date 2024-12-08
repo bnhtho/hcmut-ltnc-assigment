@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Tra Cứu Dữ Liệu</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Liên kết Font Awesome để lấy icon phễu -->
+    <link rel="stylesheet" href="decor.css">
+</head>
+<body>
+    <header>
+        <h1>Web Tra Cứu Dữ Liệu 🕵️‍♂️</h1>
+    </header>
+
+    <div class="container">
+        <!-- Mô tả -->
+        <h2>
+            Công cụ giúp kiểm tra tính minh bạch của người chuyển đến Ban MTTQTƯ từ ngày 01/09/2024 đến 11/09/2024
+        </h2>
+        <!-- Phần tìm kiếm -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Nhập mã giao dịch, số tiền, nội dung..." oninput="performSearch()">
+            <button onclick="performSearch()">Tìm Kiếm</button>
+        </div>
+
+        <!-- Bộ lọc và phân trang -->
+        <div class="filter-container">
+            <!--Hiển thị kết quả mỗi trang + Phễu lọc -->
+            <div class="filter-left">
+                <label for="resultsPerPage">Hiển thị kết quả mỗi trang</label>
+                <select id="resultsPerPage" onchange="performSearch()">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                </select>
+                <button id="filterButton" onclick="toggleFilterMenu()">
+                    <i class="fas fa-filter"></i> <!-- Phễu lọc -->
+                </button>
+            </div>
+
+            <!--Từ ngày, đến ngày, và nút Áp dụng -->
+            <div class="filter-right">
+                <label for="startDate">Từ ngày:</label>
+                <input type="date" id="startDate">
+                <label for="endDate">Đến ngày:</label>
+                <input type="date" id="endDate">
+                <button onclick="applyDateFilter()">Áp dụng</button>
+            </div>
+        </div>
+
+        <!-- Menu thả xuống khi bấm cục phễu-->
+        <div id="filterMenu" class="filter-menu">
+            <button onclick="sortTableByDate('asc')">Ngày giao dịch: Tăng dần</button>
+            <button onclick="sortTableByDate('desc')">Ngày giao dịch: Giảm dần</button>
+            <button onclick="sortTableByAmount('asc')">Số tiền: Tăng dần</button>
+            <button onclick="sortTableByAmount('desc')">Số tiền: Giảm dần</button>
+        </div>
+
+        <!-- Bảng kết quả -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Ngày Giao Dịch</th>
+                    <th>Mã Giao Dịch</th>
+                    <th>Số Tiền</th>
+                    <th>Người Gửi</th>
+                    <th>Nội Dung</th>
+                </tr>
+            </thead>
+            <tbody id="resultsTableBody">
+                <tr>
+                    <td colspan="5">Nội dung tìm kiếm không hợp lệ. Hãy thử lại!</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Phân trang -->
+        <div id="pagination" class="pagination"></div>
+
+        <footer>
+            &copy; 2024. Web Tra Cứu Dữ Liệu. BTL môn LTNC
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
