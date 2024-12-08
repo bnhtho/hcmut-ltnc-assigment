@@ -36,12 +36,13 @@ function renderTable() {
     }
 
     currentData.forEach((item, index) => {
+        console.log(item)
         const row = `
             <tr>
+                <td>${startIndex + index + 1}</td>
                 <td>${item.date}</td>
-                <td>${item.id}</td>
-                <td>${item.credit}</td>
-                <td>${item.sender}</td>
+                <td>${item.time}</td>
+                <td>${item.credit ? item.credit.toLocaleString() : item.debit.toLocaleString()}</td>
                 <td>${item.detail}</td>
             </tr>
         `;
@@ -57,20 +58,81 @@ function renderPagination() {
     paginationContainer.innerHTML = '';
 
     const totalPages = Math.ceil(allData.length / resultsPerPage);
+    const maxVisiblePages = 8; // Số trang hiển thị liền kề
 
-    for (let i = 1; i <= totalPages; i++) {
+    // Tính toán phạm vi trang cần hiển thị
+    let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+    let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+
+    // Điều chỉnh lại startPage nếu endPage chạm đến cuối
+    if (endPage - startPage + 1 < maxVisiblePages) {
+        startPage = Math.max(1, endPage - maxVisiblePages + 1);
+    }
+
+    // Nút "First"
+    if (startPage > 1) {
+        const firstButton = document.createElement('button');
+        firstButton.innerText = 'First';
+        firstButton.onclick = () => {
+            currentPage = 1;
+            renderTable();
+            renderPagination();
+        };
+        paginationContainer.appendChild(firstButton);
+    }
+
+    // Nút "Previous"
+    if (currentPage > 1) {
+        const prevButton = document.createElement('button');
+        prevButton.innerText = 'Prev';
+        prevButton.onclick = () => {
+            currentPage--;
+            renderTable();
+            renderPagination();
+        };
+        paginationContainer.appendChild(prevButton);
+    }
+
+    // Các trang liền kề
+    for (let i = startPage; i <= endPage; i++) {
         const button = document.createElement('button');
         button.innerText = i;
-        button.classList.add(i === currentPage ? 'active' : '');
+        if (i === currentPage) {
+            button.classList.add('active');
+        }
         button.onclick = () => {
             currentPage = i;
             renderTable();
             renderPagination();
         };
-
         paginationContainer.appendChild(button);
     }
+
+    // Nút "Next"
+    if (currentPage < totalPages) {
+        const nextButton = document.createElement('button');
+        nextButton.innerText = 'Next';
+        nextButton.onclick = () => {
+            currentPage++;
+            renderTable();
+            renderPagination();
+        };
+        paginationContainer.appendChild(nextButton);
+    }
+
+    // Nút "Last"
+    if (endPage < totalPages) {
+        const lastButton = document.createElement('button');
+        lastButton.innerText = 'Last';
+        lastButton.onclick = () => {
+            currentPage = totalPages;
+            renderTable();
+            renderPagination();
+        };
+        paginationContainer.appendChild(lastButton);
+    }
 }
+
 
 // Hiển thị hoặc ẩn menu thả xuống
 function toggleFilterMenu() {
@@ -122,7 +184,7 @@ function applyDateFilter() {
     allData = filteredData;
     currentPage = 1;
     renderTable();
-    renderPagination();
+    // renderPagination();
 }
 
 // Lọc theo tìm kiếm
@@ -137,5 +199,5 @@ function searchByTerm(term) {
     allData = filteredData;
     currentPage = 1;
     renderTable();
-    renderPagination();
+    // renderPagination();
 }
