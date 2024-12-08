@@ -38,9 +38,10 @@ function renderTable() {
     }
 
     
-    currentData.forEach(item => {
+    currentData.forEach((item, index) => {
         const row = `
             <tr>
+                <td>${startIndex + index + 1}</td>
                 <td>${item.date}</td>
                 <td>${item.time}</td>
                 <td>${item.credit ? item.credit.toLocaleString() : item.debit.toLocaleString()}</td>
