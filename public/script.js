@@ -1,4 +1,3 @@
-
 let currentPage = 1;
 let resultsPerPage = 5;
 let allData = [];
@@ -33,7 +32,7 @@ function renderTable() {
     const currentData = allData.slice(startIndex, endIndex);
 
     if (currentData.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="5">Xin vui lòng nhập từ khóa tìm kiếm!</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="5">Không tìm thấy dữ liệu</td></tr>`;
         return;
     }
 
