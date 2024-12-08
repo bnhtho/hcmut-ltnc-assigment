@@ -1,25 +1,33 @@
 let allData = [];
 let currentPage = 1;
 let resultsPerPage = 5;
-
+let debounceTimer;
 // Gọi API để tải dữ liệu và hiển thị bảng
 function performSearch() {
-    const searchTerm = document.getElementById('searchInput').value;
-    resultsPerPage = parseInt(document.getElementById('resultsPerPage').value);
-    currentPage = 1;
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+        const searchTerm = document.getElementById('searchInput').value;
+        resultsPerPage = parseInt(document.getElementById('resultsPerPage').value);
+        currentPage = 1;
 
-    axios.get(`http://localhost:8080/api/data?term=${encodeURIComponent(searchTerm)}`)
-        .then(response => {
-            allData = response.data;
-            renderTable();
-        })
-        .catch(error => {
-            console.error('Lỗi khi gọi API:', error);
-            document.getElementById('resultsTableBody').innerHTML = `
-                <tr><td colspan="5">Lỗi khi tải dữ liệu. Hãy thử lại!</td></tr>
-            `;
-        });
+        document.getElementById('resultsTableBody').innerHTML = `
+            <tr><td colspan="5">Đang tải dữ liệu...</td></tr>
+        `;
+
+        axios.get(`http://localhost:8080/api/data?term=${encodeURIComponent(searchTerm)}`)
+            .then(response => {
+                allData = response.data;
+                renderTable();
+            })
+            .catch(error => {
+                console.error('Lỗi khi gọi API:', error);
+                document.getElementById('resultsTableBody').innerHTML = `
+                    <tr><td colspan="5">Lỗi khi tải dữ liệu. Hãy thử lại!</td></tr>
+                `;
+            });
+    }, 300);
 }
+
 
 // Hiển thị bảng kết quả
 function renderTable() {
@@ -163,32 +171,55 @@ function sortTableByAmount(order) {
     toggleFilterMenu();
     renderTable();
 }
+// Format date
+function formatDate(dateString) {
+    const date = new Date(dateString);
+    const day = String(date.getDate()).padStart(2, '0');  // Lấy ngày và thêm số 0 nếu ngày < 10
+    const month = String(date.getMonth() + 1).padStart(2, '0');  // Lấy tháng, nhớ cộng thêm 1 vì tháng bắt đầu từ 0
+    const year = date.getFullYear();
+    
+    return `${day}/${month}/${year}`;
+}
 
-// Lọc theo khoảng ngày
 function applyDateFilter() {
     const startDateInput = document.getElementById('startDate').value;
     const endDateInput = document.getElementById('endDate').value;
+    console.log(formatDate(startDateInput))
+    // Kiểm tra xem người dùng có nhập ngày bắt đầu và ngày kết thúc không
+    if (!startDateInput || !endDateInput) {
+        alert("Vui lòng nhập đầy đủ ngày bắt đầu và ngày kết thúc.");
+        return;
+    }
+    // Convert sang kiểu /
 
-    const startDate = startDateInput ? new Date(startDateInput) : null;
-    const endDate = endDateInput ? new Date(endDateInput) : null;
+    // // Chuyển đổi ngày từ DD/MM/YYYY sang YYYY-MM-DD
+    const startDate = formatDate(startDateInput);
+    const endDate = formatDate(endDateInput);
+    // console.log(startDate)
 
-    const filteredData = allData.filter(item => {
-        const itemDate = new Date(item.date);
+    // // Gửi yêu cầu API với ngày đã chuyển đổi
+    axios.get(`http://localhost:8080/api/search?startDate=${encodeURIComponent(startDate)}&endDate=${encodeURIComponent(endDate)}`)
+        .then(response => {
+    //         // Dữ liệu nhận được từ API
+            const filteredData = response.data;
+            console.log(filteredData)
+    //         // Cập nhật allData với dữ liệu đã lọc từ API
+            allData = filteredData;
 
-        if (startDate && itemDate < startDate) return false;
-        if (endDate && itemDate > endDate) return false;
-
-        return true;
-    });
-
-    allData = filteredData;
-    currentPage = 1;
-    renderTable();
-    // renderPagination();
+    //         // Cập nhật trang hiện tại và render lại bảng
+            currentPage = 1;
+            renderTable();
+            renderPagination();
+        })
+        .catch(error => {
+            console.error('Lỗi khi gọi API:', error);
+            document.getElementById('resultsTableBody').innerHTML = `
+                <tr><td colspan="5">Lỗi khi tải dữ liệu. Hãy thử lại!</td></tr>
+        `;
+        });
 }
 
-// Lọc theo tìm kiếm
-document.getElementById('searchInput').addEventListener('input', performSearch);
+
 
 // Lọc dữ liệu khi ô tìm kiếm được thay đổi
 function searchByTerm(term) {

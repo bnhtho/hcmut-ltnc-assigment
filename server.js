@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
-const fs = require('fs'); 
+const fs = require('fs');
+var moment = require('moment'); 
 const app = express();
 const port = 8080;
 
@@ -32,29 +33,38 @@ app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
 
-// Demo: lọc theo ngày
 app.get('/api/search', (req, res) => {
-    const { startDate } = req.query;
-
-    // Đọc dữ liệu từ file (giả sử data là mảng các object với thuộc tính date)
-    const data = readDataFromFile();
+    const { startDate, endDate } = req.query;
 
     // Kiểm tra các tham số
     if (!startDate) {
         return res.status(400).json({ error: 'Vui lòng cung cấp startDate' });
     }
-
-    // Chuyển đổi startDate sang đối tượng Date
-    const start = new Date(startDate);
-    if (isNaN(start)) {
-        return res.status(400).json({ error: 'startDate không hợp lệ' });
+    if (!endDate) {
+        return res.status(400).json({ error: 'Vui lòng cung cấp endDate' });
     }
 
-    // Lọc dữ liệu theo ngày
+    // Chuyển đổi startDate và endDate sang đối tượng Date
+
+    // Kiểm tra tính hợp lệ của ngày
+    if (isNaN(startDate) || isNaN(endDate)) {
+        return res.status(400).json({ error: 'startDate hoặc endDate không hợp lệ' });
+    }
+
+    // Đọc dữ liệu từ file (giả sử data là mảng các object với thuộc tính date)
+    const data = readDataFromFile();
+
+    // Lọc dữ liệu theo ngày trong khoảng từ startDate đến endDate
     const filteredData = data.filter(item => {
-        const itemDate = new Date(item.date); // Giả sử cột ngày có tên là "date"
-        return itemDate.getTime() === start.getTime(); // So sánh chính xác thời gian
+        const itemDate = convertToDate(item.date); // Giả sử cột ngày có tên là "date"
+
+        // Kiểm tra xem itemDate có nằm trong khoảng từ startDate đến endDate không
+        return itemDate >= startDate && itemDate <= endDate;
     });
 
+    // Trả về dữ liệu đã lọc
     res.json(filteredData);
 });
+
+
+
