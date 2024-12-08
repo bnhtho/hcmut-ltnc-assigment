@@ -15,11 +15,11 @@ app.use(cors());
 app.get('/api/data', (req, res) => {
     const searchTerm = req.query.term;
 
-    if (!searchTerm) {
-        return res.status(400).json({ error: 'Missing search term' });
-    }
-
     const data = readDataFromFile();
+    
+    if (!searchTerm) {
+        return res.json(data);
+    }
 
     const filteredData = data.filter(item =>
         item.detail.toLowerCase().includes(searchTerm.toLowerCase())
