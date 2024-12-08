@@ -31,3 +31,30 @@ app.get('/api/data', (req, res) => {
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
+
+// Demo: lọc theo ngày
+app.get('/api/search', (req, res) => {
+    const { startDate } = req.query;
+
+    // Đọc dữ liệu từ file (giả sử data là mảng các object với thuộc tính date)
+    const data = readDataFromFile();
+
+    // Kiểm tra các tham số
+    if (!startDate) {
+        return res.status(400).json({ error: 'Vui lòng cung cấp startDate' });
+    }
+
+    // Chuyển đổi startDate sang đối tượng Date
+    const start = new Date(startDate);
+    if (isNaN(start)) {
+        return res.status(400).json({ error: 'startDate không hợp lệ' });
+    }
+
+    // Lọc dữ liệu theo ngày
+    const filteredData = data.filter(item => {
+        const itemDate = new Date(item.date); // Giả sử cột ngày có tên là "date"
+        return itemDate.getTime() === start.getTime(); // So sánh chính xác thời gian
+    });
+
+    res.json(filteredData);
+});
