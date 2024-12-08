@@ -1,0 +1,3523 @@
+[
+    {
+        "date": "08/09/2024",
+        "time": "5218.13419",
+        "credit": 600000,
+        "debit": 0,
+        "detail": "879551.070924.225942.CAO VU UYEN PHI Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.55276",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097041509072309482024WMww389857.55 276.230948.cung nhau vuot qua bao lu"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.98542",
+        "credit": 40000,
+        "debit": 0,
+        "detail": "MBVCB.6972671603.binh thuong.CT tu 1019267832 toi 0011001932418 Uy Ban Trung uong Mat tran To quoc Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.89760",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "709190.080924.005509.NGUYEN NGOC MAI chuyen FT24253673526220"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.93385",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "763753.080924.010349.TRUONG NHAT QUYEN Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.10351",
+        "credit": 436000,
+        "debit": 0,
+        "detail": "020097040509080136092024O1VY045159.1035 1.013609.Vietcombank:0011001932418:HUYN H VAN VU quyen gop"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.17931",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "614590.080924.070932.mong nguoi dan an toan va som khac phuc hau qua"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.20668",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "327870.080924.071200.Ung Ho Nha Nuoc Viet Nam Va Giup do Nguoi dan"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.12341",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6973170453.DO XUAN KHOI chuyen tien.CT tu 1020731700 DO XUAN KHOI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.72876",
+        "credit": 1111111,
+        "debit": 0,
+        "detail": "020097042209080836052024J7RE911419.72876. 083606.THUONG GUI DONG BAO"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.83962",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "837052.080924.085644.CA THI XOAN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.4651",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "070607.080924.090555.QUANG THI NGA chuyen khoan"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.23819",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "MBVCB.6973591620.TRAN THI HONG THAM chuyen tien.CT tu 0181003522725 TRAN THI HONG THAM toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.24705",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "MBVCB.6973620329.xin cap mshs.CT tu 0821000145674 BUI VAN HIEU toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.55211",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "926242.080924.092619.mhs38526"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.68626",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "909788.080924.093135.NGUYEN VAN QUY Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.78947",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "955200.080924.093538.ung ho cong tac chong bao so 3 thanh pho Ha Noi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.38418",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "024508.080924.095657.VU VAN LUC chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.43344",
+        "credit": 13000,
+        "debit": 0,
+        "detail": "445479.080924.095834.Ung ho dong bao bao lu MB"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.1071",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "027713.080924.101824.HOANG THI CHI Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.86958",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "703283.080924.104730.PHAM MINH TUAN chia se cung dong bao thiet hai do bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.45091",
+        "credit": 2000,
+        "debit": 0,
+        "detail": "MBVCB.6974314459.NGUYEN MINH TINH chuyen tien.CT tu 0461000612698 NGUYEN MINH TINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.63253",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "0200970405090811060120240V2P091452.63253. 110601.Vietcombank:0011001932418:mhs6537 281"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.66554",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "0200970405090811074820247E4Q095331.66554 .110741.Vietcombank:0011001932418:mhs"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.58696",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "091661.080924.111116.TRAN VAN HUAN Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.50495",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "MBVCB.6974516359.QUACH THI MAI chuyen tien.CT tu 1033225764 QUACH THI MAI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.77319",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "311243.080924.111718.PHAM NGOC BINH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.39042",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "480510.080924.113804.xin cap mshs FT24253004746966"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.47314",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "090072.080924.114103.MAI VAN QUY chuyen tien den MAT TRAN TO QUOC VN - BAN CUU TRO TW - 0011001932418"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.49523",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "868697.080924.114143.LUONG VAN SON Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.81295",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "571504.080924.115244.VAN THI THANG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.981",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "920487.080924.115958.thuong gui dong bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.22086",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "391514.080924.120657.7963"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.27846",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "159885.080924.120932.NGUYEN THE HUNG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.42580",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "417046.080924.121430.HA DINH DUONG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.48477",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "02009704050908123649202442HT066759.48477 .123650.Vietcombank:0011001932418:NGUYE N THI LINH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.3175",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "606360.080924.123744.DAO THI QUYNH ANH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.25477",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "678375.080924.124628.VU NGOC HAN chuyen FT24253710003404"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.47036",
+        "credit": 2000,
+        "debit": 0,
+        "detail": "633812.080924.125505.TRAN QUANG HUNG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.73707",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6975302399.Ung ho dong bao .CT tu 9964122412 HO HUU QUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.74436",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6975326802.NH.CT tu 0381000528745 LE NGUYEN NGOC HAN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.27350",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "813482.080924.132918.co gieo day Hoa thuong gui dong bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.62573",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081345312024T13T764395.62573 .134532.NGUYEN THANH TAN ung ho  chia se cung dong bao bi  anh huong mua bao lu lut."
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.47775",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "289057.080924.142119.SUNG THIN CHIN Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.92370",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "306933.080924.143857.DO THI GIANG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.93861",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "972680.080924.143926.Gia dinh ong luu van luc FT24253738767330"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.6401",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "044333.080924.144414.IBFT VU THI HANG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.46469",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "329524.080924.150008.DO CONG SON Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.50033",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "330711.080924.150111.DO CONG SON Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.57171",
+        "credit": 7000,
+        "debit": 0,
+        "detail": "072014.080924.150400.IBFT TRAN VAN TEO chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.58319",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "596296.080924.150440.VI THI HONG HOA chuyen tien, ma GD 248302502"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.80658",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "168339.080924.151235.Dau Phuoc Hao Nhan ung ho sau bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.94595",
+        "credit": 80000,
+        "debit": 0,
+        "detail": "946602.080924.151744.NGUYEN NAM TUYEN Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.21463",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "107536.080924.152722.IBFT LE MINH KHAN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.34185",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "022520.080924.153144.HOANG THI AN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.37519",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "992137.080924.153244.NGUYEN THI LAN Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.42710",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "033039.080924.153455.HOANG THI NGAN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.79581",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "384511.080924.154714.NGUYEN THI KIM YEN Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.49374",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "254443.080924.161016.son chuyen tien FT24253879158042"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.69081",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "276264.080924.161626.TRUONG DINH TOAN chuyen FT24253519800641"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.90159",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "432123.080924.162329.3580"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.19652",
+        "credit": 100000000,
+        "debit": 0,
+        "detail": "151822.080924.163257.Tran Thien Thanh Bao ung ho dong bao vuot bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.5283",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "020097040509081633302024QGA7018995.5283. 163313.Vietcombank:0011001932418:TRAN VAN KHAI chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.30927",
+        "credit": 400000,
+        "debit": 0,
+        "detail": "MBVCB.6976679171.Chuc tat ca binh an khoe manh.CT tu 0081001314551 toi 0011001932418 Uy Ban Trung uong Mat tran To quoc Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.57456",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "790259.080924.164431.LO THI NGOC Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.17301",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6976788523.Ung ho dong bao thiet hai sau bao.CT tu 0491000002110 DANG THI THU PHUONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.17004",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "860247.080924.170218.em ung ho ho tro ba con vung bao hy vong moi dieu tot dep vs moi nguoi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.19053",
+        "credit": 200000000,
+        "debit": 0,
+        "detail": "MBVCB.6976846744.VO HA LINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0541000216024 VO THI HA LINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.21081",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6976925698.TRAN NGUYEN THANH TUYEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0441000815565 TRAN NGUYEN THANH TUYEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.48156",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "491130.080924.171135.PHAM BAO CHAU chuyen ung ho khac phuc sau bao yagi FT24253104386804"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.21403",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "MBVCB.6976930003.Duong Thi Thuy.CT tu 0121000787239 DUONG THI HONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.21448",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6976936677.UNG HO KHAC PHUC HAU QUA SAU BAO YAGI .CT tu 0531002557725 DINH NGOC ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.21489",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6976931237.LUONG THI HOAI chuyen tien.CT tu 0201000615164 LUONG THI HOAI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.21623",
+        "credit": 150000,
+        "debit": 0,
+        "detail": "MBVCB.6976940936.dong gop bao so 3.CT tu 0271000984668 TRAN THI NHI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.7580",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081713562024WJGY722661.7580 .171356.Ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.11064",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081715032024KI31563605.11064. 171504.VU THI PHUONG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.22203",
+        "credit": 20000000,
+        "debit": 0,
+        "detail": "MBVCB.6976950434.CAM SCARLETT UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0081001211998 MAI THI THIEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.11189",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097041509081715092024SElM638232.11189 .171509.NGUYEN THI NHU HOA UNG HO KHAC PHUC HAU QUA BAO SO 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.62249",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "884285.080924.171533.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.61588",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "913705.080924.171544.NGUYEN THI HONG CO ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.62709",
+        "credit": 80000,
+        "debit": 0,
+        "detail": "917066.080924.171557.PHAN THI THANH NHAN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.63763",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "125017.080924.171628.LO VAN THOA chuyen khoan"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.66370",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "431461.080924.171707.Ung ho cuu tro sau bao so 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.22835",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6976987960.VUONG THI THANH HUONG ung ho khac phuc hau qua bao YaGi.CT tu 1023245768 VUONG THI THANH HUONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.69401",
+        "credit": 5000000,
+        "debit": 0,
+        "detail": "516869.080924.171747.Cung moi nguoi ung ho khac phuc hau qua bao so 3 Yagi FT24253328884591"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.19057",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209081718272024FNGV372976.1905 7.171828.LE DIEU LINH ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.80668",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "935348.080924.172109.LIEU THI GIA HAN Chuyen tien ung ho khac phuc bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.82958",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "352635.080924.172159.Nguyen Nhu Dung UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.85896",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "927264.080924.172307.NGUYEN VAN QUAN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.24350",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977032100.gia dinh Dung Thuy Giang chuc to quoc khoe manh, binh an, cam on.CT tu 1018144916 HOANG THANH THUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.88737",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "540982.080924.172335.HA KIEU ANH ung ho khac phuc hau qua bao so 3 FT24253520627671"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.31840",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970405090817234220243B1A061156.31840 .172342.Vietcombank:0011001932418:mong moi nguoi binh an"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.24449",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6977040079.TRAN THI KIM CHAU chuyen tien.CT tu 9782378864 TRAN THI KIM CHAU toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.89647",
+        "credit": 88000,
+        "debit": 0,
+        "detail": "946483.080924.172354.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.33799",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097042209081724212024JG71407635.33799. 172421.Tran Nhat Linh UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.24632",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977043569.Ung ho khac phuc hau qua bao so 3 Yagi.CT tu 0741000665890 LE THI HONG TRAM toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.34802",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097041509081724442024OPej663377.34802. 172444.LUONG THI HAI NGAN UNG HO KHAC PHUC HAU QUA BAO SO 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.92447",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "947796.080924.172433.Ung ho khac phuc hau qua bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.40224",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209081726442024SIEW685656.4022 4.172638.DO THI MINH HUYEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.40392",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "020097042209081726522024275Z322105.40392. 172635.tu mien nam xin gui ban mat tran giup do khac phuc hau qua sau bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.660",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "706764.080924.172713.QUANG VAN QUYET chuyen tien tu Viettel Money"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.19593",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6635 6036291.20240908.66356036291-0982077748_D ANG NHA NGUYEN UNG HO KHAC PHUC HAU QUA BAO S3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.25518",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977080089.NGUYEN THI THANH BINH chuyen tien.CT tu 0011004397323 NGUYEN THI THANH BINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.7085",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "957940.080924.172846.TRUONG THI NGOC TRAM UNG HO KHAC PHUC BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.10394",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "719500.080924.172947.DAO THUY HONG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.11499",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "391814.080924.173016.Phan Thanh Huyen ung ho khac phuc hau qua bao so 3 yaki"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.26380",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6977103129.NGUYEN THI NGOC TRINH chuyen tien.CT tu 1018435117 NGUYEN THI NGOC TRINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.53288",
+        "credit": 250000,
+        "debit": 0,
+        "detail": "020097042209081731412024DF4M121530.5328 8.173124.ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.17665",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "290184.080924.173207.TAM MY UNG HO KHAC PHUC SAU BAO"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.26843",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977128092.CHU THI TRANG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1034319714 CHU THI TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.19991",
+        "credit": 30000,
+        "debit": 0,
+        "detail": "735484.080924.173249.NGUYEN THI THANH HANG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.56694",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970422090817325320247OAS214189.5669 4.173254.THAN THUY HANG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.24736",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "987347.080924.173347.DINH DUC HIEU ung ho mien bac"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.26804",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "743770.080924.173432.Ung ho cuu tro bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.21371",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6635 5707730.20240908.66355707730-0905567477_U ng ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.27415",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977146475.NGUYEN THI THANH NHAN chuyen tien.CT tu 0281000570913 NGUYEN THI THANH NHAN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.45890",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "MBVCB.6977140896.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0011004316887 NGUYEN TIEN HUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.27567",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977149227.Khac phuc hau qua bao YAGI.CT tu 1032547516 TO PHUONG NHUNG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.30557",
+        "credit": 11000,
+        "debit": 0,
+        "detail": "748803.080924.173529.Ung ho Khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.63465",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081735332024X356603744.63465. 173526.Nguyen Nhat Uyen Nhi ung ho khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.64830",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "0200970405090817355420249Q5U096609.64830 .173554.Vietcombank:0011001932418:SocNan Ung ho khac phuc bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.37225",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "599863.080924.173727.LA THI BICH Ung ho khac phuc hau qua bao so 3 YAGI FT24253358374509"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.28514",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "MBVCB.6977173434.NGUYEN SY TAI UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0101001209099 NGUYEN SY TAI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.45112",
+        "credit": 30000,
+        "debit": 0,
+        "detail": "769461.080924.173932.Tran Thi Phuong Thuy chuyen tien tu Viettel Money"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.75319",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209081739372024IWRG234224.7531 9.173938.NGUYEN THI NGOC ANH chuyen tien cuu tro sau bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.44810",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "439701.080924.173958.Tran thi kim dung ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.75786",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "020097042209081739582024FQHE408928.7578 6.173958.Gia dinh NGUYEN VU THU HUONG chuyen tien UNG HO KHAC PHUC CON BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.47846",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "462977.080924.174037.NGUYEN DIEU HOA chuyen tien den MAT TRAN TO QUOC VN - BAN CUU TRO TW - 0011001932418"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.48824",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "614858.080924.174058.BUI THI THUY LINH ung ho khac phuc hau qua bao so 3 Yagi FT24253148031082"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.78896",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "020097040509081741232024YIVF012920.78896. 174123.Vietcombank:0011001932418:HOANG THI KIM QUYEN chuyen tien ung khac phuc hau qua bao so 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.81781",
+        "credit": 80000,
+        "debit": 0,
+        "detail": "020097042209081742272024JLVJ887526.81781. 174228.1 TAM LONG NHO GOP SUC UNG HO KHAC PHUC HAU QUA BAO SO 3 GAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.48214",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977220214.ung ho ba con chiu thien tai bao so 3.CT tu 9967739493 toi 0011001932418 Uy Ban Trung uong Mat tran To quoc Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.29601",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977212395.Kevin Minh Tam Ung Ho  Khac Phuc Hau Qua Bao Yagi .CT tu 9933751199 LE MINH TAM toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.63291",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "631917.080924.174502.THUY DUONG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253008893746"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.89648",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081745232024Q5JA896450.89648 .174524.LUONGHUONGGIANG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.30417",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "MBVCB.6977247171.NGUYEN DUONG THIEN AN chuyen tien ung ho khac phuc bao yagi.CT tu 1031717560 NGUYEN DUONG THIEN AN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.92784",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209081746162024YASS951714.9278 4.174617.xin duoc gop tien ung ho bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.68733",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "336905.080924.174632.IBFT UNG HO KHAC PHUC HAU QUA BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.70169",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "639380.080924.174649.HUYNH THI NHU UYEN chuyen cuu bao Yagi FT24253626695206"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.95805",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097041509081747422024nYym724930.9580 5.174734.khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.30978",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977266980.LE NGOC KY NHI UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1016675492 LE NGOC KY NHI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.24712",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6635 7741921.20240908.66357741921-0798799247_U ng ho khac phuc hau qua bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.2852",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081750282024NTYY171077.2852. 175011.UNG HO KHAC PHUC SAU BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.82838",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "476454.080924.175037.Ung ho khac phuc chong bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.32025",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6977306833.NGUYEN THI TRUNG ANH chuyen tien ung ho sau bao yagi.CT tu 1032644941 NGUYEN THI TRUNG ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.91966",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "593697.080924.175316.NONG KIM TUE chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.92851",
+        "credit": 37000,
+        "debit": 0,
+        "detail": "840326.080924.175329.ho tro khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.11520",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081753342024JLGH135702.11520 .175334.DANG THI PHUONG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.26120",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6635 8068274.20240908.66358068274-0912725848_U ng ho dong bao khac phuc sau bao Chuc moi nguoi binh an"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.32658",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977327465.LE VIET ANH chuyen tien ung ho khac phuc bao so 3  .CT tu 1018366721 LE VIET ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.98886",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "008500.080924.175612.NGO THI BICH TRAM UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI-080924-17:55:09 008500"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.2042",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "343264.080924.175548.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.9708",
+        "credit": 28000,
+        "debit": 0,
+        "detail": "864760.080924.175829.NGUYEN LINH DAN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.33792",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "MBVCB.6977365404.xin cap ma so ho so .CT tu 0541000291208 TRAN DUC HUNG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.34115",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6977364530.TRAN THI TRANG chuyen tien ung ho dong bao khac phuc hau qua bao so 3 Yagi.CT tu 1035217865 TRAN THI TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.34220",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977373637.NGUYEN MAI THUC ANH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1028295681 NGUYEN MAI THUC ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.17767",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "981628.080924.180045.Gia Dinh Ti xin ung ho khac phuc hau qua bao Yagi- Xin Cam On"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.34871",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "MBVCB.6977402329.NGUYEN VAN CHUNG. Vinh phuc ung ho cac tinh mien bac con bao yagi.CT tu 0361000346182 NGUYEN VAN CHUNG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.30087",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "193573.080924.180424.TRAN PHUNG KHAI UNG HO KHAC PHUC HAU QUA BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.35297",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6977414759.Yeu Dong Bao Yeu To Quoc.CT tu 0561000507186 LE LY TRAM ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.35309",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977415013.Diem Y. Khanh Huyen ung ho khac phuc sau bao Yagi.CT tu 1020943105 VO THI KHANH HUYEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.29246",
+        "credit": 40000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6635 9544145.20240908.66359544145-0908156126_c hau la hoc sinh a chau cung muon gop chut a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.36992",
+        "credit": 5000000,
+        "debit": 0,
+        "detail": "720687.080924.180638.SEUNG THAO HO TRO KHAC PHUC HAU QUA SAU BAO YAGI FT24253023508755"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.36103",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6977448710.TRAN THI MINH HIEN chuyen tien ung ho khac phuc hau qua bao so 3 yagi.CT tu 0461000587224 TRAN THI MINH HIEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.42561",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "726647.080924.180809.DINH THI DUYEN ung ho khac phu hau qua bao so 3 YAGI FT24253280842008"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.45991",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "731579.080924.180928.VU THI PHUONG ANH ung ho bao so 3 FT24253822804730"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.56072",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977466913.NGUYEN THI THAO UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1040047296 NGUYEN THI THAO toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.53422",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509081809572024qCbX782168.5342 2.180957.TRAN MINH LUAN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.49780",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "735330.080924.181027.UH khac phuc bao Yati FT24253817030378"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.50820",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "688221.080924.181044.UH khac phuc bao so3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.71037",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970415090818174520242bZa800399.71037. 181746.khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.72908",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "762915.080924.181749.NGUYEN PHUONG LINH ung ho khac phuc hau qua bao Yagi FT24253518686530"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.76435",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "622954.080924.181844.Phan Hong Thom ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.75808",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "766477.080924.181847.PHAM VAN ANH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253040057849"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.77867",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "392306.080924.181924.IBFT LAM PHOI LINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.77954",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "006192.080924.181927.TRAN HUYNH PHUONG NHI chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.82093",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "773456.080924.182040.TRAN GIA LINH ung ho khac phuc hau qua bao so 3 yagi FT24253499049658"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.83916",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "775420.080924.182114.LE THI TRANG CHUN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253991696468"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.84750",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "727057.080924.182138.VU PHUONG HOA QN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI QN"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.85779",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "515331.080924.182148.SV GUI KHAC PHUC HAU QUA BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.87420",
+        "credit": 5000000,
+        "debit": 0,
+        "detail": "779216.080924.182216.NGUYEN PHUONG ANH UNG HO KHAC PHUC BAO YAGI FT24253976782849"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.86715",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "779351.080924.182218.LE THI LE chuyen FT24253027040640"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.33159",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 0341091.20240908.66360341091-0985451293_N GUYEN THI MINH CHAU UNG HO KHAC PHU HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.89549",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "783183.080924.182323.ung ho khac phuc hau qua bao so 3 yagi FT24253095810676"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.91625",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "035926.080924.182342.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.89589",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081826212024UY7H757405.8958 9.182622.NGUYEN THI MAI ANH ung ho cuu tro bao lu."
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.90996",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "02009704220908182644202491AT239060.90996 .182645.UNG HO KHAC PHUC HAU QUA BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.2080",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "796610.080924.182704.DO NGOC KHANH chuyen cuu tro bao Yagi FT24253500089190"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.34516",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 0986446.20240908.66360986446-0706423144"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.95348",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209081828362024A50P113834.95348 .182837.ung ho khac phuc hau qua con bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.97441",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097040509081829262024AGZT041236.9744 1.182919.Vietcombank:0011001932418:ung ho khac phuc hau qua bao Yagi Mien Bac"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.41668",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "MBVCB.6977648392.TRAN HOANG TONY UNG HO KHAC PHUC HAU QUA BAO.CT tu 1043451663 TRAN HOANG TONY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.41697",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977655643.som vuot qua nhe.CT tu 1029444695 PHAN CAO Y NHI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.20703",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "819760.080924.183314.con ko co nhieu nhung con mong minh cung duoc gop 1 phan nao do FT24253492206037"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.62524",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977664394.Ung ho khac phuc hau qua bao yagi.CT tu 0691000374608 NGUYEN THI HA GIANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.7886",
+        "credit": 80000,
+        "debit": 0,
+        "detail": "020097040509081834032024BNSF052945.7886. 183403.Vietcombank:0011001932418:Ho tro giup do nguoi dan chiu anh huong con bao Yagi con bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.42257",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977675143.ung ho khac phuc hau qua bao so 3.CT tu 1026482519 CAO THANH TU toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.42634",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977682245.PHAM MAI HUYEN TRANG chuyen tien.CT tu 0071001333922 PHAM MAI HUYEN TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.30051",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "829555.080924.183536.Cua it long nhieu chung tay giup do nhan dan thiet hai do bao so 3 mong den duoc tay nguoi can nhan FT24253358592650"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.42664",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977682001.SINH VIEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0511000479509 PHAM THI HUYEN TRAN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.29531",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "777200.080924.183550.Gia Han ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.36334",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "837395.080924.183733.NGUYEN THI NGOC DUNG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253680100068"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.18958",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209081838362024DK5Y918728.1895 8.183829.Con chi co it thoi nen mong moi nguoi o mien Bac khac phu con bao a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.41376",
+        "credit": 5000000,
+        "debit": 0,
+        "detail": "844044.080924.183912.SAINC UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253700330794"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.22698",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209081839522024OD8C668805.2269 8.183953.DINH TIEN DUNG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.44280",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6977741905.ung ho khac phuc hau qua bao so 3 yagi.CT tu 0041000359384 BUI THI DUNG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.28487",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209081842152024CJF6101862.28487. 184209.Cua it long nhieu mong moi nguoi khac phuc hau qua sau bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.45013",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6977765749.HD ung ho khac phuc bao so 3 yagi.CT tu 0181003553340 LE THI HONG DAO toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.65740",
+        "credit": 1000,
+        "debit": 0,
+        "detail": "MBVCB.6977766225.Khokhan.CT tu 0441000722147 toi 0011001932418 Uy Ban Trung uong Mat tran To quoc Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.61490",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "745999.080924.184510.Nguoi ham mo nhom nhac STRAY KIDS quyen gop ung ho khac phuc hau qua sau con bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.45102",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6977776548.NGUYEN THI HA PHUONG UNG HO KHAC PHUC HAU QUA BAO SO 3YAGI.CT tu 0581000779365 NGUYEN THI HA PHUONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.38556",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097041509081846292024YTjk867196.38556. 184629.NGUYEN THI NGOC BICH chuyen tien ho tro nguoi dan mien Bac bi thiet hai sau con bao YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.68237",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "069077.080924.184807.NGUYEN DUY AN UNG HO KHAC PHUC BAO SO 3-080924-18:47:08 069077"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.44552",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509081849102024hxRA873274.44552 .184852.TRAN NHAT MAI chuyen tien ung ho dong bao mien bac sau bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.77585",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "551203.080924.185004.Ung ho khac phuc bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.81533",
+        "credit": 301350,
+        "debit": 0,
+        "detail": "464905.080924.185119.TRAN THANH TU ct MAT TRAN TO QUOC VN BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.87345",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "840582.080924.185258.TRAN THANH THAO ung ho khac phuc hau qua bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.47107",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6977838563.NGUYEN HONG PHUC NGUYEN chuyen tien  UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1039068082 NGUYEN HONG PHUC NGUYEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.55023",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209081853332024N0ZY227122.5502 3.185335.HOANG THI NGOAN ung ho khac phuc hau qua bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.68654",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "MBVCB.6977856269.NGUYEN THI THUY (0975769385)ung ho khac phuc hau qua bao so 3 yagi.CT tu 0801000284780 NGUYEN THI THUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.60649",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209081856012024072B816532.60649. 185602.VU MY HIEN ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.47985",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977864823.ung ho khac phuc bao so 3 Yagi.CT tu 0041000376581 NGUYEN THI NGUYET toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.2402",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "915710.080924.185737.NGUYEN THI PHUONG ANH UNG HO KHAC PHUC SAU BAO YAGI FT24253250502224"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.4492",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "083168.080924.185913.TRAN NGUYEN THANH TUYEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI-080924-18:58:15 083168"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.15100",
+        "credit": 30000,
+        "debit": 0,
+        "detail": "821275.080924.190125.Hoc sinh TRUONG THI THAO VY ho tro bao YAGI, cua it long nhieu"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.15376",
+        "credit": 42000,
+        "debit": 0,
+        "detail": "886410.080924.190134.HOANG THI BICH HUYEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.17238",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "469208.080924.190203.IBFT TRAN THUY THUY DUONG ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.16654",
+        "credit": 350000,
+        "debit": 0,
+        "detail": "094940.080924.190218.Gop phan nho khac phuc hau qua sau bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.19707",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "088841.080924.190413.NGUYEN THI HAI YEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI-080924-19:03:04 088841"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.76848",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970422090819030720249M3J208813.76848 .190250.le my duyen ho tro khac phuc hau qua sau bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.78667",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097042209081903432024320V208980.78667. 190326.NGO LE HA VY chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.22989",
+        "credit": 87000,
+        "debit": 0,
+        "detail": "064998.080924.190402.ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.25683",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "881779.080924.190454.LE THI LE HANG Ung ho dong bao khac phuc bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.82382",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509081905132024KnZq909557.8238 2.190505.HUYNH THI YEN NHI CHUYEN TIEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.82641",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "0200970422090819052620242FY3365936.82641. 190527.Trinh thi van anh ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.27912",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "885136.080924.190539.Ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.71635",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6977945081.Quyen gop.CT tu 1038984193 NGUYEN TRAN KIM ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.50653",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6977966660.Ung ho.CT tu 1029429865 NGUYEN THI THANH TRUC toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.44909",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 2483317.20240908.66362483317-0383129586_N GUYEN THI MINH KHA ho tro thiet hai tu bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.39573",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "959078.080924.190917.LUONG THI CAM NHUNG UNG HO KHAC PHUC HAU QUA BAO YAGI FT24253780557503"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.41334",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "960536.080924.190941.VO HOANG BAO TRAN ung ho lhac phuc sau hau qua bao yagi FT24253288014592"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.43869",
+        "credit": 3000,
+        "debit": 0,
+        "detail": "925013.080924.191036.NGUYEN THI HIEN0022162"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.43889",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "862479.080924.191036.Dao Nhu Quynh chuyen tien ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.97250",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "0200970405090819114920241HP1047413.97250 .191149.Vietcombank:0011001932418:PHAM MY HOA chuyen tien MAT TRAN TO QUOC VN BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.49560",
+        "credit": 100000000,
+        "debit": 0,
+        "detail": "906485.080924.191158.DO THI QUYNH ANH ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.53852",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "077574.080924.191345.Chung tay cung to quoc viet nam vuot qua thien tai"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.62086",
+        "credit": 15000,
+        "debit": 0,
+        "detail": "948941.080924.191618.Nguyen Thi Hong ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.52777",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978038739.TRIEU THI SINH chuyen tien.CT tu 0351000951255 TRIEU THI SINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.53145",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978053962.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0251002740526 NGUYEN THI THUY HANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.70392",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "959935.080924.191854.yeu Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.15376",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097040509081919372024R6H0065873.15376 .191937.Vietcombank:0011001932418:LE NGOC LINH ung ho mien bac"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.73173",
+        "credit": 150000,
+        "debit": 0,
+        "detail": "997746.080924.191955.ung ho khac phuc hau qua bao so 3 FT24253791592164"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.73417",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "251388.080924.192003.UONG MINH VUONG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.77096",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "002026.080924.192105.Chau Vo Thi Dung va ong Minh Khoa ung ho khac phuc hau qua bao so 3 Yagi FT24253025267700"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.54201",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6978091281.Yagi.CT tu 1031953875 DAO TRINH YEN NHI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.83208",
+        "credit": 40000,
+        "debit": 0,
+        "detail": "264511.080924.192255.Ung ho khac phuc bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.48735",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 4395891.20240908.66364395891-0934047987_D anh bua sang ung ho ba con"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.84940",
+        "credit": 9000,
+        "debit": 0,
+        "detail": "981122.080924.192359.MA QUYNH NHU chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.54696",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "MBVCB.6978104871.BUI MINH TRANG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0011002473384 BUI MINH TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.92094",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "953070.080924.192548.LE THI AI Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.93895",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "022663.080924.192650.DINH THI MAI ung ho khac phuc hau qua bao so 3 yagi FT24253115176311"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.49719",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 4870991.20240908.66364870991-0915812467"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.97881",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "027124.080924.192803.CHU THI MINH THUONG ung ho khac phuc hau qua bao so 3 Yagi FT24253263910293"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.55584",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978130781.HO THI VI chuyen tien.CT tu 1034120888 HO THI VI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.34406",
+        "credit": 80000,
+        "debit": 0,
+        "detail": "020097042209081928122024M4B0128963.3440 6.192812.DAM THAO MY chuyen tien cuu tro sau bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.37688",
+        "credit": 150000,
+        "debit": 0,
+        "detail": "020097042209081929322024D7T5885798.37688 .192915.LE NGUYEN KHANH CHI chuyen tien ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.39090",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509081929552024q1ku963194.39090. 192937.NGUYEN THI NGOC YEN ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.4371",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "949583.080924.193008.TRAN THI HAI YEN ung ho khac phuc hau qua bao so 3 yaki"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.39958",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097041509081930352024pNEi964902.39958. 193035.NGUYEN THUY LINH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.50471",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 5138084.20240908.66365138084-0823331407_T ONG THI HOAI PHUONG ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.41994",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "020097041509081931382024cLe8967516.41994. 193140.LE THI MINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.45595",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "0200970405090819330820241WJS098325.4559 5.193309.Vietcombank:0011001932418:NGUYE N THI YEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.14345",
+        "credit": 2000,
+        "debit": 0,
+        "detail": "102046.080924.193310.TO TRINH CINDY UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.15955",
+        "credit": 2000,
+        "debit": 0,
+        "detail": "978954.080924.193349.chuyen tien ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.19279",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "050856.080924.193439.NGUYEN THUY LINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253707034006"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.19569",
+        "credit": 6000,
+        "debit": 0,
+        "detail": "318446.080924.193454.ca van tran"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.57215",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978194456.HA THI MY TIEN chuyen tien.CT tu 0701000421768 HA THI MY TIEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.20165",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "982902.080924.193457.TRAN THUY TRANG Chuyen tien ung ho khac phuc hau qua con bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.57282",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "MBVCB.6978205263.ung ho khac phuc hau qua bao so 3 yagi .CT tu 9977087079 NGUYEN PHAN THAO LY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.57500",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978209410.GIANG NGOC TRAM UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1039112750 GIANG NGOC TRAM toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.53670",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209081936362024L069120010.53670. 193637.yeu thuong"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.26472",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "107396.080924.193722.TO TRINH CINDY UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.28207",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "993362.080924.193745.NGUYEN NGOC ANH ung ho khac phuc bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.58246",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978235627.NGUYEN VO NGUYEN UNG HO KHAC PHUC BAO SO 3 YAGI.CT tu 1050142217 NGUYEN VO NGUYEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.58820",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209081939182024VIEU339392.58820 .193901.ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.58277",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6978231666.NGUYEN THI THU HIEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0121000620562 NGUYEN THI THU HIEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.58774",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6978255887.PHAM THI HUE chuyen tien.CT tu 0211000445214 PHAM THI HUE toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.44111",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "540446.080924.194253.IBFT LIEN UH KHAC PHUC HQUA BAO S3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.48462",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "567672.080924.194410.LE NGOC LINH CHI Chuyen tien ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.47778",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "084925.080924.194416.ung ho khac phuc thien tai bao yagi FT24253750701306"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.59502",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978274199.NGUYEN DINH CHIEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0071001233441 NGUYEN DINH CHIEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.53644",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "091437.080924.194609.Mong nguoi dan mien trung binh an FT24253700585576"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.60052",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "MBVCB.6978305987.tam long nho nho cua em a.CT tu 1329731747 NGUYEN ANH CHUONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.57145",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "073279.080924.194707.PHAM HAI MY ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.58660",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "096073.080924.194728.TRAN THI BICH ung ho bao so 3 yagi FT24253148500252"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.60440",
+        "credit": 10000000,
+        "debit": 0,
+        "detail": "MBVCB.6978312178.EYCO - KIM SARANG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0091000637239 MAI KIM LOAN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.62174",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "380833.080924.194844.chau kh co nhieu"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.62404",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "100870.080924.194850.LE THI LY chuyen khac phuc hau qua bao so 3 yagi FT24253040296780"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.83855",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978327108.Yen Thanh ung ho khac phuc hau qua bao so 3.CT tu 0101001214373 NGUYEN THI THUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.73512",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "114175.080924.195234.NGUYEN DOAN XUAN TRANG UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253179200515"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.76766",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "117894.080924.195337.TRAN THI CHAU ANH ung ho khac phuc hau qua bao Yagi FT24253207752189"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.56521",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 7182151.20240908.66367182151-0896222263_u ng ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.81457",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "129555.080924.195516.Ung ho sau bao lu a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.95656",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097040509081955322024NCXR050879.9565 6.195532.Vietcombank:0011001932418:HOAN G TU ANH chuyen tien ung ho bao lu mien Bac"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.83127",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "124741.080924.195534.VU THUY LINH ung ho khac phuc hau qua bao yagi FT24253052180196"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.1754",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970422090819575420242AZG274774.1754. 195755.ung ho dong bao chong bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.887",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509081958202024HcBf124875.887.19 5820.TO VAN ANH chuyen tien ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.86079",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6978391736.full.CT tu 1018394403 toi 0011001932418 Uy Ban Trung uong Mat tran To quoc Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.3722",
+        "credit": 12000,
+        "debit": 0,
+        "detail": "020097040509081959082024HW11059396.3722 .195850.Vietcombank:0011001932418:LO THI THUY chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.1027",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "145993.080924.200128.HA THI LINH chuyen ung ho khac phuc hau qua con bao so 3 Yagi FT24253862000010"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.1721",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "089990.080924.200159.THUY LINH UNG HO KHAC PHUC BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.2735",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "830517.080924.200203.NGUYEN PHUONG ANH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.13573",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209082003312024IQYZ853700.13573 .200332.Vo Thi Hoang Oanh chuyen tien cuu tro bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.13649",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097041509082003362024PjMN135801.1364 9.200336.LE THI HUYEN TRANG ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.10637",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "575127.080924.200436.IBFT NGUY A LIN ho tro khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.13476",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "142505.080924.200540.TRAN DANG KHANH LINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.20944",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "170364.080924.200817.dang hong cu chuyen ung ho FT24253225992955"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.25822",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097041509082008582024WHVH147497.258 22.200859.chung tay khac phuc hau qua bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.88911",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978483462.Ung pho bao Yagi.CT tu 0991000027415 toi 0011001932418 Uy Ban Trung uong Mat tran To quoc Viet Nam"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.65491",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6978483370.HA THI NGOC THU chia se ba con mien trung khac phuc bao so 3.CT tu 0391000309850 HA THI NGOC THU toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.65589",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978481319.NGUYEN THI THANH THUY chuyen tien.CT tu 1032753799 NGUYEN THI THANH THUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.31144",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209082011032024LVKS764443.3114 4.201046.PHAM THI THU HANG UNG HO KHAC PHUC HAU QUA SAU BAO SO 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.32087",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "132379.080924.201147.Nguyen Hoang Bao Tran UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.35062",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "0200970422090820124620240AK9796694.3506 2.201238.Ung ho nan nhan bao yagi."
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.38194",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "187826.080924.201400.Tran Thi Yen Ung ho khac phuc hau qua sau bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.66600",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6978536744.cuu tro dong bao mien Bac chong bao so 3 Yagi.CT tu 1016817412 NGUYEN THU PHUONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.43093",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "665809.080924.201408.NGUYEN THI HONG NGAT UNG HO KHAC PHUC HAU QUA BAO SO 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.61695",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 8738379.20240908.66368738379-0901500181_c huyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.43808",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "833792.080924.201550.NGUYEN THI MINH LAM SON THANH HOA UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.45058",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "197807.080924.201602.NGUYEN THI NGUYEN ung ho cuu tro mien bac FT24253085194930"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.45542",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "152307.080924.201623.Nguyen Thu Trang chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.67027",
+        "credit": 67476,
+        "debit": 0,
+        "detail": "MBVCB.6978545429.ung ho khac phuc hau qua bao Yagi.CT tu 9968867942 NGUYEN THI HAI YEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.50754",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "657777.080924.201817.TO THI HAI ANH UH KHAC PHUC BAO SO 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.91530",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978568330.HUYNH BAO NGOC chuyen tien.CT tu 0241004085350 HUYNH BAO NGOC toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.50919",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082020392024GZ98359562.50919 .202040.NGUYEN THI NGOC ANH chuyen tien ung ho khac phuc bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.52109",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097041509082020502024FKjv173186.52109. 202050.DO VAN LUONG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.91933",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978582870.LUONG HUYEN TRANG ung ho khac phuc hau qua .CT tu 1045291363 LUONG HUYEN TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.68092",
+        "credit": 30000,
+        "debit": 0,
+        "detail": "MBVCB.6978582403.em co chut it ho tro ng dan mien bac trong con bao so3 Yagi.CT tu 1016127752 LE THI HONG NHI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.53522",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082021302024OJ64757679.53522. 202131.cua it long nhieu con xin phep duoc quyen gop de khac phuc hau qua sau bao a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.62626",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "692142.080924.202158.CAO ANH TUAN Du it nhung van muon ung ho giup dong bao vuot qua kho khan a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.68325",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978598106.LY TO TRINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0111000306405 LY TO TRINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.64278",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "660379.080924.202225.GD Sumi Ben Tre Ung Ho Bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.65014",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "221989.080924.202250.NGUYEN THI LIEN UNG HO KHAC PHUC BAO SO 3 YAGI FT24253358992090"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.65299",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "917002.080924.202257.VO CHONG CHIEN THUY NGHE AN HO TRO KHAC PHUC BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.66052",
+        "credit": 109199200,
+        "debit": 0,
+        "detail": "222678.080924.202302.Nguoi ham mo ca si Soobin Hoang Son gui tang dong bao ca nuoc khac phuc hau qua bao YAGI. FT24253082461456"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.57285",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209082023252024908U280642.57285. 202326.Fan Ninh Duong Story xin ho tro thiet hai sau lu"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.58455",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "020097042209082023312024SKSB157978.5845 5.202314.LANG DUYEN UNG HO KHAC PHUC BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.92760",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6978607219.ung ho bao so 3 yagi mien bac viet nam.CT tu 0081001342006 PHAN THI BINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.59459",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097042209082024232024M9BY617387.5945 9.202424.DUONG TUAN ANH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.70180",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "700684.080924.202441.VU THI HA TRANG Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.71380",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "189096.080924.202451.ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.71860",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "180830.080924.202511.UNG HO KHAC PHUC HAU QUA BAO YAGI-080924-20:25:10 180830"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.70935",
+        "credit": 5000,
+        "debit": 0,
+        "detail": "540352.080924.202516.e ko dc nhieu tien nhung may man hon nhieu khac nen e gop 1 it nho a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.72761",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "232109.080924.202544.LE BINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI FT24253609658190"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.63525",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "0200970405090820261720245UZO021099.6352 5.202609.Vietcombank:0011001932418:NGUYE N THI HAI YEN ung ho khac phuc bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.77382",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "236304.080924.202655.BUI QUOC NAM ung ho khac phuc khac phuc hau qua bao yagi FT24253299706760"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.64460",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 9571479.20240908.66369571479-0886437016_u ng ho bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.65427",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097041509082027122024p8GJ186384.65427. 202654.NGUYEN THAO VY ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.69669",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6978640722.DO THI NGOC MEN chuyen tien.CT tu 1017009608 DO THI NGOC MEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.67360",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "020097042209082028052024P2Y9638317.67360. 202806.Gui ngan loi chuc va cai om den moi nguoi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.81506",
+        "credit": 161000,
+        "debit": 0,
+        "detail": "612452.080924.202831.IBFT CUNG DOAN TRANG ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.82999",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "836821.080924.202912.ung ho dong bao vung bao cap 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.73048",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082030222024DGIQ223859.73048 .203005.VUONG DINH HOANG TIEP UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.85918",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "719192.080924.203026.Gd TUAN HUYEN ho tro khac phuc sau bao YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.87231",
+        "credit": 30000,
+        "debit": 0,
+        "detail": "669236.080924.203034.NGUYEN THI ANH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.65779",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6636 9904140.20240908.66369904140-0772692091_Q uyen gop khac phuc bao yagi so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.70804",
+        "credit": 10000000,
+        "debit": 0,
+        "detail": "MBVCB.6978685800.HO TRO KHAC PHUC SAU BAO YAGI.CT tu 0041000208024 DANG THI TRAN LIEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.79182",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "020097040509082033252024OOBM036603.791 82.203307.Vietcombank:0011001932418:NGUY EN THI HAI YEN ung ho khac phuc thiet hai con bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.81496",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082034412024CQCN167006.8149 6.203442.TRAN CAT NHU chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.71181",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978684122.LY THUY ANH .CT tu 0921000727117 LY THUY ANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.296",
+        "credit": 6389,
+        "debit": 0,
+        "detail": "264298.080924.203508.63  MAY MAN TOT LANH  89  BINH AN  Mong la 1 chut dong gop nho nho cua chau se giup duoc moi nguoi a huhu TT Viet Nam co lennn"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.694",
+        "credit": 25000,
+        "debit": 0,
+        "detail": "233801.080924.203524.Khac phuc hau qua bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.84471",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097041509082036102024L3qU204759.84471 .203552.ung ho khac phuc bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.6057",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "739064.080924.203649.mong binh an cho moi nguoi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.6089",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "738798.080924.203659.Chau Yen ung ho khac phuc hau qua bao YaGi cho mien Bac a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.87771",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "020097042209082037402024GZ49644731.87771 .203741.NGUYEN THI YEN PHUONG chuc cho mien trung nhanh chong khac phuc duoc thiet hai lu lut nam mo a di da phat"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.72051",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "MBVCB.6978719139.TRAN THI TRINH UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0181001617137 TRAN THI TRINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.10969",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "279076.080924.203858.PHAN THI HOAI GIAO chuyen tien bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.91233",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970422090820390220240LTL957304.91233 .203855.chau xin ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.91529",
+        "credit": 40000,
+        "debit": 0,
+        "detail": "020097041509082039192024PexH211120.91529. 203919.LE THI THUY HOA ung ho cuu tro bao so 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.93695",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509082040342024IV9U213730.93695. 204016.NGUYEN THI HAI QUYNH ung ho khac phuc thiet hai bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.97143",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6978748778.TRIEU THI CHAU GIANG ung ho khac phuc hau qua bao so 3 Yagi.CT tu 1030818397 TRIEU THI CHAU GIANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.96433",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "0200970422090820415720243OO9196823.96433 .204150.NGUYEN THI THUY LE ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.96477",
+        "credit": 126557,
+        "debit": 0,
+        "detail": "0200970422090820420020245EKV694023.96477 .204201.TRAN VU THANH NAM chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.20775",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "755280.080924.204219.TRAN THI HUYEN TRANG Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.21129",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "289859.080924.204229.Ung ho nguoi dan chiu anh huong boi bao Yagi FT24253297902563"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.99171",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509082042532024GFc7218345.99171. 204253.Nguoi con Viet Nam ung ho khac phuc thien tai bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.24846",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "660550.080924.204413.NGUYEN LAI TUONG VY ung ho dong bao khac phuc hau qua bao so 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.26049",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "621430.080924.204414.LE THI HAI YEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.26153",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "189546.080924.204418.NGUYEN THI THU HOA ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.26498",
+        "credit": 3000000,
+        "debit": 0,
+        "detail": "270498.080924.204429.Nguyen Bich Ngoc ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.73326",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978771120.Ung ho khac phuc hau qua bao Yagi.CT tu 1043227219 DOAN DUC HUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.4994",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097041509082046092024OAuJ224311.4994. 204603.cua it long nhieu mong moi nguoi binh an"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.69143",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6637 0816634.20240908.66370816634-0905040576_u ng ho ba con khac phuc thiet hai do bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.35361",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "307287.080924.204737.NGUYEN DANG LINH DAN ung ho khac phuc hau qua bao YAGI FT24253430040129"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.12367",
+        "credit": 350000,
+        "debit": 0,
+        "detail": "020097042209082049402024K2L1196408.12367 .204941.Bui Anh Tuan ung ho khac phuc hau qua bao YaGi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.13547",
+        "credit": 58297,
+        "debit": 0,
+        "detail": "020097042209082050072024Y49N519172.13547 .204950.TRAN HUU NGHI hs ung ho khac phuc sau bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.13849",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970422090820502420247UHD437731.1384 9.205025.LE PHUONG ANH ung ho khac phuc hau qua sau bao so 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.49106",
+        "credit": 5000000,
+        "debit": 0,
+        "detail": "323486.080924.205227.Quynh Anh ung ho khac phuc hau qua bao so 3 Yagi FT24253292706730"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.19568",
+        "credit": 172000,
+        "debit": 0,
+        "detail": "020097042209082053022024SG32785382.19568. 205303.NGUYEN THI THAO HIEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.18909",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097042209082053132024IMAE693189.1890 9.205314.NGUYEN THI KHANH HUYEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.20284",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "0200970422090820533420248LFA415230.20284 .205317.LE THI HA MY Ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.54552",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "790774.080924.205422.NGUYEN HOANG NHI HA Chuyen tien UNG HO KHAC PHUC HAU QUA DO BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.57195",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "696320.080924.205535.Nam mo a di da phat"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.57399",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "316415.080924.205543.NGUYEN THI DIEU HUYEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.25605",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082056152024MYZH566246.256 05.205616.HO MAI LAN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.28611",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097041509082057382024eESw246328.28611 .205738.BUI THI PHUONG LINH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.64873",
+        "credit": 400000,
+        "debit": 0,
+        "detail": "343408.080924.205829.NGUYEN VAN NGHIA ung ho khac phuc hau qua bao so 3 YAGi FT24253090364704"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.76697",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978889597.LU NGOC NHI ung ho khac phuc hau qua bao so 3 Yagi.CT tu 1042425977 LU NGOC NHI toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.34659",
+        "credit": 20000000,
+        "debit": 0,
+        "detail": "020097041509082100442024UHGY251980.3465 9.210036.SKIN HERITAGE VIETNAM UNG HO KHAC PHUC BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.39381",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "0200970415090821025720240mXs255989.39381 .210257.NGUYEN THI THUY LINH Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.40775",
+        "credit": 60000,
+        "debit": 0,
+        "detail": "020097041509082103542024fpJ0258340.40775. 210354.DO THI MAI ANH chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.44851",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097040509082105562024W1QN001266.448 51.210556.Vietcombank:0011001932418:VO NGOC NHU Y ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.86084",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "825106.080924.210615.huynh thi chuc binh ung ho khac phu hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.87057",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "121604.080924.210621.Van Quang ung ho khac phuc hau qua bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.3413",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6978932173.HUYNH THI KIEU TRANG ung ho khac phuc hau qua bao so 3 Yagi.CT tu 1047206230 HUYNH THI KIEU TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.89880",
+        "credit": 50000000,
+        "debit": 0,
+        "detail": "365191.080924.210748.DUONG THI PHUONG ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.49415",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "020097041509082108242024bc1F266563.49415. 210806.LE QUYNH TRANG ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.78404",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6978943441.NGUYEN HA LINH chuyen tien ho tro bao so 3.CT tu 0301000419630 NGUYEN HA LINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.93373",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "377245.080924.210858.Ung ho khac phuc hau qua bao so 3 FT24253037002198"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.74047",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6637 2297062.20240908.66372297062-0932312433_V O THANH VY UNG HO KHAC PHUC BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.53335",
+        "credit": 174825,
+        "debit": 0,
+        "detail": "020097041509082110272024pmBb270532.5333 5.211027.TRAN THI PHUONG TRAM chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.78880",
+        "credit": 70000000,
+        "debit": 0,
+        "detail": "MBVCB.6978959616.VU TUI KIM NGOC UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 0121000840695 LE TUAN SON toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.55515",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082111292024TL5C424518.55515 .211112.NGUYEN MINH PHUONG ung ho khac phuc hau qua sau bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.98820",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "220664.080924.211139.PHAM THU PHUONG xin ung ho khac phuc bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.79038",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6978964382.TRAN THI THUONG ung ho ba con bao lu.CT tu 0771000587878 TRAN THI THUONG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.79102",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978971669.NGUYEN NGOC HONG AN ho tro bao Yagi.CT tu 1031062142 NGUYEN NGOC HONG AN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.4851",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6978973175.CON LA SINH VIEN UNG HO KHAC PHUC HAU QUA SAU BAO YAGI  O MIEN BAC. A DI DA PHAT.CT tu 1027359512 TRAN THI THANH THAO toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.4356",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "386749.080924.211316.Luu Thi Phuong Thao chuyen tien ung ho khac phuc bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.58943",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097041509082113362024RMtO275315.5894 3.211337.NGUYEN DAO HIEU PHUONG ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.5089",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978980544.NGUYEN DAT ung ho khac phuc hau qua bao so 3 Yagi.CT tu 0271001082438 NGUYEN DAT toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.6266",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "846405.080924.211402.BICH PHUONG ung ho khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5209.7311",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "412840.080924.211419.BUI HOANG KHANH HA ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.9259",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "396601.080924.211503.E gui chut tam long khac phuc sau bao so 3 FT24253276114559"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.64208",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082115452024W0CD282046.6420 8.211538.ung ho khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.11193",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "399197.080924.211554.TRAN PHAM GIA THU ung ho khac phuc hau qua bao so 3 yagi FT24253484662466"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.79824",
+        "credit": 5000000,
+        "debit": 0,
+        "detail": "MBVCB.6978997685.HOANG THI HUONG SEN chuyen tien.CT tu 9929986899 HOANG THI HUONG SEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.11678",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "717301.080924.211619.LUU MY LINH chuyen tien den MAT TRAN TO QUOC VN - BAN CUU TRO TW - 0011001932418"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.79933",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6978999397.NGUYEN HOANG LINH va gd  ung ho khac phuc hau qua bao so 3.CT tu 0021000379329 NGUYEN PHUONG TRA toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.65003",
+        "credit": 50996,
+        "debit": 0,
+        "detail": "020097042209082116342024E1W0791707.6500 3.211635.LE HAI YEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.15896",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "856451.080924.211757.VO HUYNH THINH DUY Chuyen tien ho tro nguoi bi thiet hai do bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.80231",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "MBVCB.6979015338.NGUYEN DUONG THIEN AN chuyen tien ung ho khac phuc hau qua bao yagi.CT tu 1031717560 NGUYEN DUONG THIEN AN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.17861",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "234181.080924.211842.UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI-080924-21:18:43 234181"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.20688",
+        "credit": 150000,
+        "debit": 0,
+        "detail": "411750.080924.211956.Vo hoang tue nhi ung ho khac phuc bao tuy khong nhieu nhung chau mong rang giup duoc phan nao cho moi nguoi a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.23419",
+        "credit": 5000,
+        "debit": 0,
+        "detail": "770464.080924.212101.TRAN DUY NGOC ung ho khac phuc hau qua so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.81031",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "MBVCB.6979032717.PHAM HOANG ANH CUU TRO BAO YAGI.CT tu 0391001011735 NGUYEN THUY PHUONG LINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.29948",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "131534.080924.212345.SINH VIEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.31255",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "871857.080924.212402.ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.81516",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6979060424.NGUYEN THI THANH DAO chuyen tien.CT tu 1001000291016 NGUYEN THI THANH DAO toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.33783",
+        "credit": 50000000,
+        "debit": 0,
+        "detail": "059643.080924.212500.NGUYEN THI BICH NGOC UNG HO KHAC PHUC HAU QUA BAO YAGI"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.77570",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6637 3431565.20240908.66373431565-0949678961_U ng ho khac phu bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.81648",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6979053905.MAI THI HUYEN TRANG chuyen tien.CT tu 0301000387034 MAI THI HUYEN TRANG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.37278",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "878521.080924.212626.NGUYEN THI THUONG ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5017.37637",
+        "credit": 18000,
+        "debit": 0,
+        "detail": "791182.080924.212647.HOANG THI THANH VAN ung ho khac phuc bao so 3 YAGi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.40005",
+        "credit": 20000,
+        "debit": 0,
+        "detail": "794385.080924.212737.ung ho"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5239.81984",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6979070069.VI THI QUYEN UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 9386007596 VI THI QUYEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.40453",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "238386.080924.212802.HOANG THU HANG ung ho khac phuc hau qua bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5243.82105",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6979081202.Ung ho khac phuc hau qua bao so 3 yagi.CT tu 0071001001796 NGUYEN NGOC THANH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5219.43919",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "440435.080924.212933.NGUYEN SONG GIA KHANH chuyen FT24253509234034"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.48542",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "889773.080924.213105.NGUYEN THI THUY VY gui it long thanh ung ho ba con bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.91427",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "020097042209082131282024SFJ0486361.91427. 213128.em khong co nhieu nhung em muon ung ho moi nguoi khac phuc hau qua bao yagi a"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5218.49115",
+        "credit": 4000,
+        "debit": 0,
+        "detail": "474255.080924.213132."
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.82836",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "MBVCB.6979103317.BE HOANG DAC TRONG UNG HO KHAC PHUC HAU QUA SAU BAO SO 3 YAGI.CT tu 0351001134659 DUONG THI LE toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.51662",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "449666.080924.213245.MAI NGOC HUYEN ung ho khac phuc hau qua bao Yagi FT24253098829284"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5387.93812",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "0200970405090821325420240EST046695.93812 .213254.Vietcombank:0011001932418:ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.51853",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "450093.080924.213254.BACH KHANG NHI STORE UNG HO KHAC PHUC HAU QUA SIEU BAO YAGI FT24253301835183"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.9313",
+        "credit": 800000,
+        "debit": 0,
+        "detail": "MBVCB.6979117968.PHAM NHU QUYNH ung ho khac phuc bao so 3 Yagi .CT tu 1045083985 PHAM NHU QUYNH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.55039",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "733670.080924.213347.Vu Thanh Xuan ung ho thiet hai do bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.54272",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "452610.080924.213346.Ung ho cuu tro bao FT24253432004056"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.54748",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "660539.080924.213412.ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5240.83234",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6979111987.VU VI NGA ung ho khac phuc hau qua bao so 3 yagi.CT tu 1040323007 VU VI NGA toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.83251",
+        "credit": 30000,
+        "debit": 0,
+        "detail": "MBVCB.6979121258.PHAN NGUYEN QUE TRAN chuyen tien.CT tu 1029961185 PHAN NGUYEN QUE TRAN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.83269",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6979121336.Thuy Dungg ung ho khac phuc hau qua bao so 3 Yagi.CT tu 1018918223 BUI THI THUY DUNG toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.58141",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "457148.080924.213522.BUI THE ANH chuyen ung ho cuu tro sau con bao yagi FT24253785433010"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5078.9696",
+        "credit": 1000,
+        "debit": 0,
+        "detail": "MBVCB.6979123351.LE MINH DUC chuyen tien.CT tu 1015919694 LE MINH DUC toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.59654",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "470620.080924.213605.Luu Bao Tran ung ho khac phuc bao Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5212.60200",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "901259.080924.213607.DO THI THANH NHAN Chuyen tien ung ho khac phuc bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5244.83569",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6979136831.dong gop khac phuc sau bao Yagi.CT tu 0111000268196 NGUYEN THI ANH TUYET toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.65242",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "906352.080924.213809.KIM HA BANG CHAU ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.2625",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082138412024QK51470553.2625. 213842.NGUYEN THU TRANG chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.65908",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "467455.080924.213903.Ung ho khac phuc hau qua bao yagi gay ra. Nhat ban huong ve viet nam FT24253398547594"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.84076",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "MBVCB.6979155456.DANG THI KIM LE THUY - UNG HO KHAC PHUC HAU QUA BAO SO 3 YAGI.CT tu 1016506624 DANG THI KIM LE THUY toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.84091",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6979146486.NGUYEN NGOC LINH ung ho khac phuc bao yagi.CT tu 1045454317 NGUYEN NGOC LINH toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.4872",
+        "credit": 300000,
+        "debit": 0,
+        "detail": "0200970422090821400620241410752668.4872.2 14007.NGUYEN HUYEN NHI chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.70293",
+        "credit": 10000,
+        "debit": 0,
+        "detail": "706363.080924.214052.IBFT UNG HO NHAN DAN MIEN BAC BAO SO 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5216.70389",
+        "credit": 500000,
+        "debit": 0,
+        "detail": "472706.080924.214057.DANG THI NGOC ANH ung ho khac phuc hau qua bao YaGi FT24253560763628"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.70471",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "488058.080924.214102.NGO THI HONG chuyen tien ung ho khac phu sau con bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.72755",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "475953.080924.214208.TRAN THI NGOC LINH uho khac phuc hau qua bao Yagi FT24253299994833"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5217.74924",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "917348.080924.214305.DANG THANH MAI Chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5161.80912",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "PARTNER.DIRECT_DEBITS_VCB.MSE.6637 4529243.20240908.66374529243-0859034922_L UONG YEN VY ung ho khac phuc hau qua bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5389.11169",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "0200970422090821433720246JD3826417.11169. 214337.bao tran ung bo khac phuc bao"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5388.12040",
+        "credit": 60000,
+        "debit": 0,
+        "detail": "020097042209082143392024TK80254507.12040 .214332.DO HOANG TRA MY ung ho khac phuc hau qua con bao so 3 yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.85195",
+        "credit": 2000000,
+        "debit": 0,
+        "detail": "MBVCB.6979188188.VU THI THACH THAO ung ho khac phuc hau qua bao so3 yagi.CT tu 0021000368468 VU THI THACH THAO toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5220.83939",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "257630.080924.214718.Kim Huyen ung ho khac phuc bao yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5215.85856",
+        "credit": 200000,
+        "debit": 0,
+        "detail": "713252.080924.214808.IBFT NGUYEN VU THAO UYEN chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.17777",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082148082024OYR1896506.1777 7.214809.NGUYEN THI NGOC HOA chuyen tien"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5214.86888",
+        "credit": 150000,
+        "debit": 0,
+        "detail": "929233.080924.214818.ung ho"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5242.85741",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "MBVCB.6979201453.HO PHAM QUYNH NHU chuyen tien ung ho khac phuc hau qua sau con bao so 3.CT tu 0441000771249 HO PHAM QUYNH NHU toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5189.22278",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097040509082150302024UEXZ071532.2227 8.215030.Vietcombank:0011001932418:THAI THI THANH NGA Ung Ho Khap Phuc Bao So 3Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5390.22485",
+        "credit": 100000,
+        "debit": 0,
+        "detail": "020097042209082150482024VGIH224899.22485 .215031.Bui Ninh Ninh ung ho khac phuc hau qua bao so 3 Yagi"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5241.86210",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6979226281.THACH THI HUYNH QUYEN ung ho khac phuc hau qua bao so 3 yagi.CT tu 1033457932 THACH THI HUYNH QUYEN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5213.99441",
+        "credit": 1000000,
+        "debit": 0,
+        "detail": "942411.080924.215423.ung ho khac phuc hau qua bao so 3"
+    },
+    {
+        "date": "08/09/2024",
+        "time": "5245.86538",
+        "credit": 50000,
+        "debit": 0,
+        "detail": "MBVCB.6979231677.Ung ho dong bao khac phuc sau bao lu so 3..CT tu 0531002472266 QUANG THI HAI VAN toi 0011001932418 MAT TRAN TO QUOC VN - BAN CUU TRO TW"
+    }
+]
