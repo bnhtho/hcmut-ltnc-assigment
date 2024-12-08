@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Tra Cứu Dữ Liệu của MTTQ VN</title>
+    <link rel="stylesheet" href="decor.css">  <!-- Liên kết file CSS -->
+</head>
+<body>
+    <header>
+        <h1>Web Tra Cứu Dữ Liệu của MTTQ VN 🕵️‍♂️</h1>
+    </header>
+
+    <div class="container">
+        <!-- Phần mô tả -->
+        <h2>
+            Công cụ giúp kiểm tra tính minh bạch của người chuyển đến Ban MTTQTƯ từ ngày 01/09/2024 đến 11/09/2024
+        </h2>
+
+        <!-- Phần tìm kiếm -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Nhập mã giao dịch, số tiền, nội dung, ... bạn muốn tra cứu!">
+            <button onclick="performSearch()">Tìm Kiếm</button>
+        </div>
+        
+        <!-- Phần hiển thị số kết quả trong 1 trang -->
+        <div class="pagination-container">
+            <label for="resultsPerPage">Số kết quả mỗi trang</label>
+            <select id="resultsPerPage" onchange="performSearch()">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+            </select>
+        </div>
+        <!-- Bảng kết quả -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Ngày Giao Dịch</th>
+                    <th>Số CT</th>
+                    <th>Số tiền</th>
+                    <th>Nội Dung</th>
+                </tr>
+            </thead>
+            <tbody id="resultsTableBody">
+                <tr>
+                    <td colspan="5">Xin vui lòng nhập từ khóa cần tìm!</td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- Phần trang -->
+        <div id="pagination" class="pagination">
+            <button id="prevPage" onclick="changePage(-1)">Trang trước</button>
+            <span id="currentPage">Trang 1  </span>
+            <button id="nextPage" onclick="changePage(1)">Trang sau</button>
+        </div>
+
+        <footer>
+            &copy; BTL môn LTNC. Front-End code bởi Pek
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>  
+    <script src="script.js"></script>  <!-- Liên kết file JS -->
+</body>
+</html>
