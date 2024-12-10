@@ -1,13 +1,15 @@
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
-var moment = require('moment'); 
 const app = express();
 const port = 8080;
-
+const path = require('path');
 // Đọc dữ liệu từ file json
+
 const readDataFromFile = () => {
-    const rawData = fs.readFileSync('data.json');
+
+    const filePath = path.join(__dirname, 'data', 'data.json');
+    const rawData = fs.readFileSync(filePath, 'utf-8'); // Đọc file và chỉ định encoding là 'utf-8'
     return JSON.parse(rawData);
 };
 
@@ -44,21 +46,14 @@ app.get('/api/search', (req, res) => {
         return res.status(400).json({ error: 'Vui lòng cung cấp endDate' });
     }
 
-    // Chuyển đổi startDate và endDate sang đối tượng Date
-
-    // Kiểm tra tính hợp lệ của ngày
     if (isNaN(startDate) || isNaN(endDate)) {
         return res.status(400).json({ error: 'startDate hoặc endDate không hợp lệ' });
     }
 
-    // Đọc dữ liệu từ file (giả sử data là mảng các object với thuộc tính date)
     const data = readDataFromFile();
 
-    // Lọc dữ liệu theo ngày trong khoảng từ startDate đến endDate
     const filteredData = data.filter(item => {
-        const itemDate = convertToDate(item.date); // Giả sử cột ngày có tên là "date"
-
-        // Kiểm tra xem itemDate có nằm trong khoảng từ startDate đến endDate không
+        const itemDate = convertToDate(item.date);
         return itemDate >= startDate && itemDate <= endDate;
     });
 
