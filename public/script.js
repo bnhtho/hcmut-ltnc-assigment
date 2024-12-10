@@ -44,7 +44,7 @@ function renderTable() {
     }
 
     currentData.forEach((item, index) => {
-        console.log(item)
+        //.log(item)
         const row = `
             <tr>
                 <td>${startIndex + index + 1}</td>
@@ -184,7 +184,7 @@ function formatDate(dateString) {
 function applyDateFilter() {
     const startDateInput = document.getElementById('startDate').value;
     const endDateInput = document.getElementById('endDate').value;
-    console.log(formatDate(startDateInput))
+    //console.log(formatDate(startDateInput))
     // Kiểm tra xem người dùng có nhập ngày bắt đầu và ngày kết thúc không
     if (!startDateInput || !endDateInput) {
         alert("Vui lòng nhập đầy đủ ngày bắt đầu và ngày kết thúc.");
@@ -202,7 +202,7 @@ function applyDateFilter() {
         .then(response => {
     //         // Dữ liệu nhận được từ API
             const filteredData = response.data;
-            console.log(filteredData)
+            //console.log(filteredData)
     //         // Cập nhật allData với dữ liệu đã lọc từ API
             allData = filteredData;
 
