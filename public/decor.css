@@ -109,9 +109,6 @@ button:hover {
 /* Khi menu được mở ra, màu chữ vẫn giữ đen */
 .filter-menu {
     display: none;  /* Menu ẩn theo mặc định */
-    position: absolute;
-    top: 35px;
-    right: 0;
     background-color: #fff;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
