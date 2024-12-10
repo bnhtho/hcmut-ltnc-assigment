@@ -156,7 +156,7 @@ function sortTableByDate(order) {
         return order === 'asc' ? dateA - dateB : dateB - dateA;
     });
 
-    toggleFilterMenu();
+    // toggleFilterMenu();
     renderTable();
 }
 
@@ -168,55 +168,8 @@ function sortTableByAmount(order) {
         return order === 'asc' ? amountA - amountB : amountB - amountA;
     });
 
-    toggleFilterMenu();
+    // toggleFilterMenu();
     renderTable();
-}
-// Format date
-function formatDate(dateString) {
-    const date = new Date(dateString);
-    const day = String(date.getDate()).padStart(2, '0');  // Lấy ngày và thêm số 0 nếu ngày < 10
-    const month = String(date.getMonth() + 1).padStart(2, '0');  // Lấy tháng, nhớ cộng thêm 1 vì tháng bắt đầu từ 0
-    const year = date.getFullYear();
-    
-    return `${day}/${month}/${year}`;
-}
-
-function applyDateFilter() {
-    const startDateInput = document.getElementById('startDate').value;
-    const endDateInput = document.getElementById('endDate').value;
-    //console.log(formatDate(startDateInput))
-    // Kiểm tra xem người dùng có nhập ngày bắt đầu và ngày kết thúc không
-    if (!startDateInput || !endDateInput) {
-        alert("Vui lòng nhập đầy đủ ngày bắt đầu và ngày kết thúc.");
-        return;
-    }
-    // Convert sang kiểu /
-
-    // // Chuyển đổi ngày từ DD/MM/YYYY sang YYYY-MM-DD
-    const startDate = formatDate(startDateInput);
-    const endDate = formatDate(endDateInput);
-    // console.log(startDate)
-
-    // // Gửi yêu cầu API với ngày đã chuyển đổi
-    axios.get(`http://localhost:8080/api/search?startDate=${encodeURIComponent(startDate)}&endDate=${encodeURIComponent(endDate)}`)
-        .then(response => {
-    //         // Dữ liệu nhận được từ API
-            const filteredData = response.data;
-            //console.log(filteredData)
-    //         // Cập nhật allData với dữ liệu đã lọc từ API
-            allData = filteredData;
-
-    //         // Cập nhật trang hiện tại và render lại bảng
-            currentPage = 1;
-            renderTable();
-            renderPagination();
-        })
-        .catch(error => {
-            console.error('Lỗi khi gọi API:', error);
-            document.getElementById('resultsTableBody').innerHTML = `
-                <tr><td colspan="5">Lỗi khi tải dữ liệu. Hãy thử lại!</td></tr>
-        `;
-        });
 }
 
 

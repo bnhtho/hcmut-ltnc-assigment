@@ -83,27 +83,6 @@ function convertToDate(dateStr) {
     return new Date(`${year}-${month}-${day}`);
 }
 
-// Endpoint lọc dữ liệu theo khoảng ngày
-app.get('/api/search', (req, res) => {
-    const { startDate, endDate } = req.query;
-
-    // Kiểm tra các tham số
-    if (!startDate) {
-        return res.status(400).json({ error: 'Vui lòng cung cấp startDate' });
-    }
-    if (!endDate) {
-        return res.status(400).json({ error: 'Vui lòng cung cấp endDate' });
-    }
-
-    const data = readDataFromFile();
-
-    const filteredData = data.filter(item => {
-        const itemDate = convertToDate(item.date);
-        return itemDate >= new Date(startDate) && itemDate <= new Date(endDate);
-    });
-
-    res.json(filteredData);
-});
 
 // Start server
 app.listen(port, () => {
