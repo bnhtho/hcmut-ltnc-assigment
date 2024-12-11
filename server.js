@@ -77,13 +77,6 @@ app.get('/api/data', (req, res) => {
     res.json(filteredData);
 });
 
-// Hàm chuyển đổi ngày từ định dạng 'dd/mm/yyyy' sang 'yyyy-mm-dd' để so sánh
-function convertToDate(dateStr) {
-    const [day, month, year] = dateStr.split('/');
-    return new Date(`${year}-${month}-${day}`);
-}
-
-
 // Start server
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
