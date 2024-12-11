@@ -3,19 +3,20 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #e9f4fb; /* Màu nền nhẹ */
     color: #333;
 }
 
 /* Header */
 header {
-    background-color: #4CAF50;
+    background-color: #007BFF; /* Màu xanh dương đậm */
     color: white;
     padding: 20px 0;
     text-align: center;
     font-size: 28px;
 }
 
+/* Container */
 .container {
     max-width: 900px;
     margin: 30px auto;
@@ -44,7 +45,7 @@ button {
     padding: 10px 15px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #007BFF;
+    background-color: #007BFF; /* Màu xanh dương */
     color: white;
     border: none;
     border-radius: 5px;
@@ -52,7 +53,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #0056b3; /* Xanh dương tối hơn khi hover */
 }
 
 /* Bộ lọc và phân trang */
@@ -77,7 +78,7 @@ button {
     padding: 8px 15px;
     font-size: 14px;
     cursor: pointer;
-    background-color: #007BFF;
+    background-color: #007BFF; /* Màu xanh dương */
     color: white;
     border: none;
     border-radius: 5px;
@@ -85,9 +86,8 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #0056b3; /* Xanh dương tối hơn khi hover */
 }
-
 
 /* Hiệu ứng hover khi di chuột qua */
 .filter-menu button:hover {
@@ -142,7 +142,7 @@ input[type="date"] {
 }
 
 input[type="date"]:focus {
-    border-color: #4CAF50;
+    border-color: #007BFF; /* Viền xanh khi focus */
 }
 
 /* Bảng */
@@ -159,7 +159,7 @@ th, td {
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: #007BFF; /* Màu nền thẻ tiêu đề bảng */
     color: white;
 }
 
@@ -183,7 +183,7 @@ tr:hover {
     padding: 8px 15px;
     font-size: 14px;
     cursor: pointer;
-    background-color: #007BFF;
+    background-color: #007BFF; /* Màu xanh dương */
     color: white;
     border: none;
     border-radius: 5px;
@@ -191,7 +191,7 @@ tr:hover {
 }
 
 .pagination button:hover {
-    background-color: #0056b3;
+    background-color: #0056b3; /* Xanh dương tối hơn khi hover */
 }
 
 .pagination button.active {
