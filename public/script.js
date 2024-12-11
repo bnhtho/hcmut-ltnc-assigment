@@ -3,7 +3,6 @@ let currentPage = 1;
 let resultsPerPage = 5;
 let debounceTimer;
 
-
 // Gọi API để tải dữ liệu và hiển thị bảng
 function performSearch() {
     clearTimeout(debounceTimer);
