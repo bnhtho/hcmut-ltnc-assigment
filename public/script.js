@@ -150,9 +150,9 @@ function sortTableByDate(order) {
 // Sắp xếp theo số tiền
 function sortTableByAmount(order) {
     allData.sort((a, b) => {
-        // Đảm bảo credit là chuỗi trước khi gọi replace và xử lý
-        const amountA = parseFloat((a.credit || '').toString().replace(/[^0-9.-]+/g, '')) || 0;
-        const amountB = parseFloat((b.credit || '').toString().replace(/[^0-9.-]+/g, '')) || 0;
+        // Tính toán số tiền thực sự từ credit và debit
+        const amountA = a.credit - a.debit;
+        const amountB = b.credit - b.debit;
 
         // Sắp xếp theo thứ tự tăng hoặc giảm dần
         return order === 'asc' ? amountA - amountB : amountB - amountA;
@@ -161,9 +161,6 @@ function sortTableByAmount(order) {
     toggleFilterMenu(); 
     renderTable();      
 }
-
-
-
 
 // Lọc dữ liệu khi ô tìm kiếm được thay đổi
 function searchByTerm(term) {
