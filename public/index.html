@@ -25,7 +25,6 @@
 
         <!-- Bộ lọc và phân trang -->
         <div class="filter-container">
-            <!--Hiển thị kết quả mỗi trang + Phễu lọc -->
             <div class="filter-left">
                 <label for="resultsPerPage">Hiển thị kết quả mỗi trang</label>
                 <select id="resultsPerPage" onchange="performSearch()">
@@ -33,20 +32,18 @@
                     <option value="10">10</option>
                     <option value="20">20</option>
                 </select>
-                <button id="filterButton" onclick="toggleFilterMenu()">
-                    <i class="fas fa-filter"></i> <!-- Phễu lọc -->
-                </button>
+                <div class="filter-button-container">
+                    <button id="filterButton" onclick="toggleFilterMenu()">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                    <div id="filterMenu" class="filter-menu">
+                        <button onclick="sortTableByDate('asc')">Ngày giao dịch: Tăng dần</button>
+                        <button onclick="sortTableByDate('desc')">Ngày giao dịch: Giảm dần</button>
+                        <button onclick="sortTableByAmount('asc')">Số tiền: Tăng dần</button>
+                        <button onclick="sortTableByAmount('desc')">Số tiền: Giảm dần</button>
+                    </div>
+                </div>
             </div>
-
-            <!--Từ ngày, đến ngày, và nút Áp dụng -->
-        </div>
-
-        <!-- Menu thả xuống khi bấm cục phễu-->
-        <div id="filterMenu" class="filter-menu">
-            <button onclick="sortTableByDate('asc')">Ngày giao dịch: Tăng dần</button>
-            <button onclick="sortTableByDate('desc')">Ngày giao dịch: Giảm dần</button>
-            <button onclick="sortTableByAmount('asc')">Số tiền: Tăng dần</button>
-            <button onclick="sortTableByAmount('desc')">Số tiền: Giảm dần</button>
         </div>
 
         <!-- Bảng kết quả -->

@@ -2,6 +2,7 @@ let allData = [];
 let currentPage = 1;
 let resultsPerPage = 5;
 let debounceTimer;
+
 // Gọi API để tải dữ liệu và hiển thị bảng
 function performSearch() {
     clearTimeout(debounceTimer);
@@ -18,6 +19,7 @@ function performSearch() {
             .then(response => {
                 allData = response.data;
                 renderTable();
+                renderPagination();
             })
             .catch(error => {
                 console.error('Lỗi khi gọi API:', error);
@@ -27,7 +29,6 @@ function performSearch() {
             });
     }, 300);
 }
-
 
 // Hiển thị bảng kết quả
 function renderTable() {
@@ -44,7 +45,6 @@ function renderTable() {
     }
 
     currentData.forEach((item, index) => {
-        //.log(item)
         const row = `
             <tr>
                 <td>${startIndex + index + 1}</td>
@@ -66,42 +66,35 @@ function renderPagination() {
     paginationContainer.innerHTML = '';
 
     const totalPages = Math.ceil(allData.length / resultsPerPage);
-    const maxVisiblePages = 8; // Số trang hiển thị liền kề
+    const maxVisiblePages = 8;
 
-    // Tính toán phạm vi trang cần hiển thị
     let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
     let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
 
-    // Điều chỉnh lại startPage nếu endPage chạm đến cuối
     if (endPage - startPage + 1 < maxVisiblePages) {
         startPage = Math.max(1, endPage - maxVisiblePages + 1);
     }
 
-    // Nút "First"
     if (startPage > 1) {
         const firstButton = document.createElement('button');
         firstButton.innerText = 'First';
         firstButton.onclick = () => {
             currentPage = 1;
             renderTable();
-            renderPagination();
         };
         paginationContainer.appendChild(firstButton);
     }
 
-    // Nút "Previous"
     if (currentPage > 1) {
         const prevButton = document.createElement('button');
         prevButton.innerText = 'Prev';
         prevButton.onclick = () => {
             currentPage--;
             renderTable();
-            renderPagination();
         };
         paginationContainer.appendChild(prevButton);
     }
 
-    // Các trang liền kề
     for (let i = startPage; i <= endPage; i++) {
         const button = document.createElement('button');
         button.innerText = i;
@@ -111,38 +104,32 @@ function renderPagination() {
         button.onclick = () => {
             currentPage = i;
             renderTable();
-            renderPagination();
         };
         paginationContainer.appendChild(button);
     }
 
-    // Nút "Next"
     if (currentPage < totalPages) {
         const nextButton = document.createElement('button');
         nextButton.innerText = 'Next';
         nextButton.onclick = () => {
             currentPage++;
             renderTable();
-            renderPagination();
         };
         paginationContainer.appendChild(nextButton);
     }
 
-    // Nút "Last"
     if (endPage < totalPages) {
         const lastButton = document.createElement('button');
         lastButton.innerText = 'Last';
         lastButton.onclick = () => {
             currentPage = totalPages;
             renderTable();
-            renderPagination();
         };
         paginationContainer.appendChild(lastButton);
     }
 }
 
-
-// Hiển thị hoặc ẩn menu thả xuống
+// Toggle menu thả xuống
 function toggleFilterMenu() {
     const menu = document.getElementById('filterMenu');
     menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
@@ -156,32 +143,38 @@ function sortTableByDate(order) {
         return order === 'asc' ? dateA - dateB : dateB - dateA;
     });
 
-    // toggleFilterMenu();
+    toggleFilterMenu(); // Ẩn menu sau khi sắp xếp
     renderTable();
 }
 
 // Sắp xếp theo số tiền
 function sortTableByAmount(order) {
     allData.sort((a, b) => {
-        const amountA = parseFloat(a.credit.replace(/[^0-9.-]+/g, ''));
-        const amountB = parseFloat(b.credit.replace(/[^0-9.-]+/g, ''));
+        // Đảm bảo credit là chuỗi trước khi gọi replace và xử lý
+        const amountA = parseFloat((a.credit || '').toString().replace(/[^0-9.-]+/g, '')) || 0;
+        const amountB = parseFloat((b.credit || '').toString().replace(/[^0-9.-]+/g, '')) || 0;
+
+        // Sắp xếp theo thứ tự tăng hoặc giảm dần
         return order === 'asc' ? amountA - amountB : amountB - amountA;
     });
 
-    // toggleFilterMenu();
-    renderTable();
+    toggleFilterMenu(); 
+    renderTable();      
 }
+
 
 
 
 // Lọc dữ liệu khi ô tìm kiếm được thay đổi
 function searchByTerm(term) {
     const filteredData = allData.filter(item => {
-        return item.id.includes(term) || item.credit.includes(term) || item.sender.includes(term);
+        return item.id.includes(term) || 
+               (item.credit && item.credit.includes(term)) || 
+               (item.debit && item.debit.includes(term)) || 
+               item.detail.includes(term);
     });
 
-    allData = filteredData;
     currentPage = 1;
+    allData = filteredData;
     renderTable();
-    // renderPagination();
 }
