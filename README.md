@@ -5,3 +5,6 @@ Git Clone về chạy 2 lệnh
 npm install
 npm start
 ```
+
+### Todo
+Làm file báo cáo bằng latex và slide pdf
