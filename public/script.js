@@ -3,6 +3,7 @@ let currentPage = 1;
 let resultsPerPage = 5;
 let debounceTimer;
 
+
 // Gọi API để tải dữ liệu và hiển thị bảng
 function performSearch() {
     clearTimeout(debounceTimer);
@@ -30,6 +31,29 @@ function performSearch() {
     }, 300);
 }
 
+
+
+// Hàm cập nhật tổng thu
+function updateTotalAmount() {
+    // Tính tổng giá trị cột 'credit' từ toàn bộ dữ liệu
+    console.log(allData)
+    const totalCredit = allData.reduce((sum, item) => {
+        const credit = item.credit || 0;
+        const debit = item.debit || 0;
+        return sum + (credit - debit);
+    }, 0);
+
+    // Cập nhật giá trị vào phần tử HTML với id 'totalAmount'
+    const totalAmountElement = document.getElementById('totalAmount');
+    if (totalAmountElement) {
+        
+        totalAmountElement.textContent = totalCredit.toLocaleString();
+    }
+
+    
+}
+
+
 // Hiển thị bảng kết quả
 function renderTable() {
     const tbody = document.getElementById('resultsTableBody');
@@ -50,14 +74,15 @@ function renderTable() {
                 <td>${startIndex + index + 1}</td>
                 <td>${item.date}</td>
                 <td>${item.time}</td>
-                <td>${item.credit ? item.credit.toLocaleString() : "-" + item.debit.toLocaleString()}</td>
+                <td class="creditDetail">+${item.credit ? item.credit.toLocaleString() : "-" + item.debit.toLocaleString()}</td>
                 <td>${item.detail}</td>
             </tr>
         `;
         tbody.innerHTML += row;
     });
 
-    renderPagination();
+    updateTotalAmount()
+// Lấy tổng thu
 }
 
 // Hiển thị phân trang
@@ -175,3 +200,6 @@ function searchByTerm(term) {
     allData = filteredData;
     renderTable();
 }
+
+
+

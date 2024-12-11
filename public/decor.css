@@ -128,7 +128,7 @@ button:hover {
 }
 
 .filter-menu button:hover {
-    background-color: #f0f0f0;
+    background-color: transparent !important;
     color: #007BFF;
 }
 
@@ -202,4 +202,19 @@ tr:hover {
 .pagination button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
+}
+
+/* update: Added text suceess credit color */
+.creditDetail{
+    color: #007BFF !important;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size : 16px;
+    font-weight: bold;
+}
+
+footer{
+    margin-top: 15px !important;
+    text-align: center;
 }
