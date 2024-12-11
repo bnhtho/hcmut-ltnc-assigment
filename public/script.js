@@ -101,20 +101,22 @@ function renderPagination() {
 
     if (startPage > 1) {
         const firstButton = document.createElement('button');
-        firstButton.innerText = 'First';
+        firstButton.innerText = 'Trang đầu';
         firstButton.onclick = () => {
             currentPage = 1;
             renderTable();
+            renderPagination();
         };
         paginationContainer.appendChild(firstButton);
     }
 
     if (currentPage > 1) {
         const prevButton = document.createElement('button');
-        prevButton.innerText = 'Prev';
+        prevButton.innerText = 'Trang trước';
         prevButton.onclick = () => {
             currentPage--;
             renderTable();
+            renderPagination();
         };
         paginationContainer.appendChild(prevButton);
     }
@@ -122,32 +124,38 @@ function renderPagination() {
     for (let i = startPage; i <= endPage; i++) {
         const button = document.createElement('button');
         button.innerText = i;
+
+        // Thêm class 'active' nếu là trang hiện tại
         if (i === currentPage) {
             button.classList.add('active');
         }
+
         button.onclick = () => {
             currentPage = i;
             renderTable();
+            renderPagination();
         };
         paginationContainer.appendChild(button);
     }
 
     if (currentPage < totalPages) {
         const nextButton = document.createElement('button');
-        nextButton.innerText = 'Next';
+        nextButton.innerText = 'Kế tiếp';
         nextButton.onclick = () => {
             currentPage++;
             renderTable();
+            renderPagination();
         };
         paginationContainer.appendChild(nextButton);
     }
 
     if (endPage < totalPages) {
         const lastButton = document.createElement('button');
-        lastButton.innerText = 'Last';
+        lastButton.innerText = 'Trang cuối';
         lastButton.onclick = () => {
             currentPage = totalPages;
             renderTable();
+            renderPagination();
         };
         paginationContainer.appendChild(lastButton);
     }
