@@ -68,17 +68,23 @@ function renderTable() {
     }
 
     currentData.forEach((item, index) => {
+        const amount = (item.credit || 0) - (item.debit || 0); 
+        const className = amount >= 0 ? 'credit-positive' : 'credit-negative'; // credit-negative = số đỏ
+    
         const row = `
             <tr>
                 <td>${startIndex + index + 1}</td>
                 <td>${item.date}</td>
                 <td>${item.time}</td>
-                <td class="creditDetail">+${item.credit ? item.credit.toLocaleString() : "-" + item.debit.toLocaleString()}</td>
+                <td class="creditDetail ${className}">
+                    ${amount.toLocaleString()}
+                </td>
                 <td>${item.detail}</td>
             </tr>
         `;
         tbody.innerHTML += row;
     });
+    
 
     updateTotalAmount()
 // Lấy tổng thu

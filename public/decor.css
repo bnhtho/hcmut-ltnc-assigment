@@ -218,3 +218,8 @@ footer{
     margin-top: 15px !important;
     text-align: center;
 }
+
+/* số âm */
+.credit-negative{
+color: #dc3545  !important;
+}
