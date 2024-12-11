@@ -88,17 +88,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Các phần tử trong menu */
-.filter-menu button {
-    width: 100%;
-    padding: 10px;
-    text-align: left;
-    background: none;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease, color 0.3s ease;
-    color: #000; /* Màu chữ đen */
-}
 
 /* Hiệu ứng hover khi di chuột qua */
 .filter-menu button:hover {
@@ -106,15 +95,41 @@ button:hover {
     color: #007BFF; /* Đổi màu chữ khi hover */
 }
 
-/* Khi menu được mở ra, màu chữ vẫn giữ đen */
+/* Container cho nút phễu và menu lọc */
+.filter-button-container {
+    position: relative;
+    display: inline-block;
+}
+
+/* Menu thả xuống */
 .filter-menu {
-    display: none;  /* Menu ẩn theo mặc định */
+    display: none;  /* Mặc định ẩn */
+    position: absolute;
+    top: 100%;  /* Hiển thị ngay bên dưới nút */
+    left: 0;
     background-color: #fff;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
+    width: 200px;
     z-index: 1000;
-    width: 250px;
+}
+
+/* Các nút trong menu */
+.filter-menu button {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: #000;
+}
+
+.filter-menu button:hover {
+    background-color: #f0f0f0;
+    color: #007BFF;
 }
 
 /* Các ô input */
